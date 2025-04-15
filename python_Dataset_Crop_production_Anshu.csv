@@ -1,0 +1,1051 @@
+State,Crop,Year,Season,Area (ha),Production (tonnes),Yield (tonnes/ha),Fertilizer Used,Irrigation Type,Soil Type,Pesticide Used,Temperature (°C),Rainfall (mm),Labor Count,District,Market Price (Rs/quintal),Government Support
+Tamil Nadu,Sugarcane,2021,Zaid,36867.7,121515.03,3.3,DAP,Sprinkler,Black,No,30.5,1364.9,18,Patna,4841.01,No
+Tamil Nadu,Rice,2019,Zaid,3846.1,15763.35,4.1,MOP,Rainfed,Red,Yes,25.8,506.1,85,Chennai,2014.68,Yes
+Bihar,Maize,2021,Rabi,36377.94,156994.75,4.32,DAP,Drip,Sandy,Yes,25.3,1348.9,41,Patna,4499.91,Yes
+Haryana,Sugarcane,2021,Kharif,15907.87,48905.08,3.07,Compost,Rainfed,Sandy,No,38.6,906.9,48,Bangalore,4696.31,Yes
+Bihar,Wheat,2017,Zaid,30980.79,59436.08,1.92,Urea,Canal,Black,No,23.4,390.6,13,Patna,3681.66,Yes
+Bihar,Sugarcane,2019,Zaid,49178.31,142631.3,2.9,Compost,Canal,Sandy,No,31.6,1632.2,62,Patna,4725.07,Yes
+West Bengal,Maize,2021,Kharif,4187.53,18201.75,4.35,DAP,Drip,Red,Yes,31.1,1069.5,24,Patna,2591.51,No
+Bihar,Rice,2018,Kharif,1782.35,3908.13,2.19,Compost,Canal,Red,No,34.8,1957.1,96,Mumbai,4812.06,Yes
+Bihar,Sugarcane,2020,Kharif,41826.55,84493.56,2.02,Urea,Rainfed,Red,Yes,30,635.2,54,Chennai,3811.13,No
+Punjab,Sugarcane,2018,Rabi,21832.64,46368.71,2.12,None,Sprinkler,Clay,Yes,25.4,1013.3,24,Amritsar,1168.02,Yes
+Bihar,Cotton,2018,Rabi,23037.95,61867.28,2.69,DAP,Drip,Red,No,23.4,951.2,40,Chennai,4627.49,No
+Bihar,Sugarcane,2017,Rabi,16941.19,45165.75,2.67,Compost,Canal,Red,Yes,32.4,329.5,31,Ludhiana,2937.89,No
+Haryana,Cotton,2018,Kharif,14765.79,46188.69,3.13,DAP,Rainfed,Clay,No,34.4,909.6,76,Bangalore,2841.31,No
+Punjab,Cotton,2021,Kharif,1766.18,4892.68,2.77,None,Rainfed,Loamy,No,31.4,646.4,36,Mumbai,3265.87,Yes
+Punjab,Sugarcane,2019,Zaid,35636.01,131390.74,3.69,Compost,Canal,Sandy,Yes,34.8,404.6,5,Lucknow,1597.54,Yes
+Punjab,Maize,2021,Rabi,18564.82,34300.49,1.85,Compost,Rainfed,Red,Yes,22.8,636.1,21,Mumbai,2876.66,No
+Tamil Nadu,Wheat,2020,Rabi,5675.1,14825.94,2.61,DAP,Rainfed,Sandy,No,37.6,543.2,13,Kolkata,4324.51,No
+Maharashtra,Cotton,2019,Rabi,44473.42,129713.17,2.92,DAP,Drip,Black,No,31.6,1494.7,88,Patna,1061.93,Yes
+West Bengal,Maize,2017,Kharif,28502.58,108677.53,3.81,Urea,Rainfed,Sandy,No,22.5,158.5,49,Ludhiana,2091.67,Yes
+Tamil Nadu,Maize,2017,Zaid,21949.51,34598.08,1.58,None,Canal,Clay,No,29.2,1273.2,70,Patna,1009.82,No
+West Bengal,Maize,2017,Kharif,25919.96,109452.2,4.22,Urea,Drip,Sandy,No,36.9,1545.3,36,Bangalore,2662.85,Yes
+Tamil Nadu,Cotton,2019,Kharif,12211.11,21136.7,1.73,Compost,Canal,Sandy,No,38,1013.4,49,Lucknow,3913.26,Yes
+Uttar Pradesh,Maize,2020,Rabi,31593.35,75410.2,2.39,DAP,Sprinkler,Sandy,Yes,25.3,1870,13,Ludhiana,4195.09,Yes
+West Bengal,Sugarcane,2020,Rabi,44280.73,109507.8,2.47,Compost,Canal,Loamy,Yes,34.2,1445,34,Kolkata,4780.76,Yes
+Tamil Nadu,Sugarcane,2017,Zaid,45434.59,105244.54,2.32,Compost,Canal,Loamy,Yes,22,1521.1,88,Mumbai,3434.02,Yes
+Uttar Pradesh,Wheat,2020,Kharif,43175.8,65664.19,1.52,MOP,Drip,Black,Yes,20.7,474.2,42,Lucknow,2018.51,Yes
+Karnataka,Maize,2017,Rabi,11883.28,22098.1,1.86,MOP,Rainfed,Clay,No,31.2,1576.9,64,Amritsar,4696.59,No
+Bihar,Maize,2017,Kharif,4179.72,9453.47,2.26,Compost,Canal,Sandy,Yes,33.9,1681,5,Chennai,4101.26,No
+Bihar,Rice,2019,Kharif,8256.26,37097.2,4.49,DAP,Drip,Sandy,Yes,35.9,786.4,9,Mumbai,3297.71,No
+Uttar Pradesh,Wheat,2018,Rabi,21140.81,33807.37,1.6,Compost,Sprinkler,Sandy,No,26.8,505.4,67,Lucknow,3782.56,No
+Karnataka,Wheat,2017,Zaid,34354.57,106251.94,3.09,MOP,Drip,Sandy,Yes,20.1,831.6,40,Amritsar,4697.27,No
+Haryana,Sugarcane,2019,Zaid,12865.84,50297.96,3.91,DAP,Drip,Loamy,No,29.6,1505.3,69,Amritsar,3849.58,No
+West Bengal,Sugarcane,2018,Rabi,20542.4,81128.01,3.95,Compost,Rainfed,Black,No,20.3,893.5,82,Kolkata,2473.5,Yes
+Karnataka,Wheat,2017,Zaid,10139.41,16449.42,1.62,None,Canal,Red,No,21.8,1499.6,77,Kolkata,3852.11,Yes
+Bihar,Sugarcane,2019,Zaid,35846.33,140822.42,3.93,None,Sprinkler,Clay,No,26.5,315.8,98,Chennai,1161.11,No
+Bihar,Sugarcane,2017,Kharif,20481.03,62533.79,3.05,Compost,Drip,Sandy,No,28.7,1631.4,28,Amritsar,2545.66,No
+Karnataka,Wheat,2019,Kharif,6560.2,28038.83,4.27,DAP,Canal,Black,Yes,25.6,581.1,8,Ludhiana,2625.29,No
+Maharashtra,Rice,2019,Zaid,33339.22,131745.48,3.95,Compost,Canal,Red,Yes,31.6,573,82,Bangalore,1667.35,Yes
+Punjab,Sugarcane,2020,Kharif,12850.76,22865.46,1.78,Compost,Drip,Black,Yes,21.1,1221.7,93,Amritsar,1092.34,Yes
+Bihar,Cotton,2021,Zaid,10246.65,23942.47,2.34,MOP,Canal,Loamy,No,22.9,233.2,72,Lucknow,1533.52,Yes
+Uttar Pradesh,Maize,2020,Rabi,39213.9,134350.54,3.43,None,Drip,Red,Yes,33.9,150,29,Kolkata,3618.49,Yes
+Uttar Pradesh,Wheat,2020,Rabi,33780.42,109518.14,3.24,MOP,Drip,Black,Yes,22.8,596,78,Bangalore,4209.16,No
+Karnataka,Wheat,2019,Kharif,1248.02,2474.1,1.98,MOP,Drip,Loamy,Yes,32.8,1122.3,11,Ludhiana,4952.81,No
+Haryana,Rice,2019,Kharif,11989.2,43599.18,3.64,Compost,Sprinkler,Black,Yes,21.1,1824.5,17,Kolkata,2385.45,No
+Punjab,Cotton,2020,Zaid,36326.06,88060.99,2.42,MOP,Drip,Black,No,28.1,1708.2,72,Ludhiana,3397.52,No
+Karnataka,Sugarcane,2019,Zaid,32180.3,72450.26,2.25,None,Rainfed,Red,Yes,23.5,1031.8,47,Kolkata,4748.58,Yes
+Maharashtra,Cotton,2019,Rabi,45398.84,127261.26,2.8,MOP,Canal,Loamy,No,22.2,170.4,61,Kolkata,1668.17,Yes
+West Bengal,Wheat,2020,Zaid,25133.37,52421.4,2.09,None,Sprinkler,Sandy,No,31.3,1117,40,Amritsar,3870.58,No
+West Bengal,Maize,2020,Zaid,38659.15,63045.78,1.63,MOP,Canal,Clay,Yes,38.6,1439.1,18,Patna,4019.91,Yes
+Bihar,Sugarcane,2021,Rabi,45828.36,119633.84,2.61,None,Sprinkler,Red,No,21.1,744.4,86,Amritsar,1355.9,Yes
+Punjab,Cotton,2021,Kharif,28085.48,90347.55,3.22,MOP,Rainfed,Loamy,No,28.4,311,76,Kolkata,4445,Yes
+Bihar,Wheat,2020,Zaid,15979.15,33120.51,2.07,MOP,Sprinkler,Black,No,34.2,629.3,31,Bangalore,4252.42,Yes
+Punjab,Maize,2018,Kharif,20339.88,82023.4,4.03,DAP,Sprinkler,Loamy,No,29.3,1566,41,Amritsar,1133.61,No
+Uttar Pradesh,Rice,2018,Zaid,26398.15,109080.3,4.13,None,Sprinkler,Clay,No,36.1,767.4,91,Kolkata,1364.34,Yes
+Punjab,Wheat,2017,Zaid,35736.64,112872.75,3.16,None,Canal,Clay,No,23.6,1642.8,75,Kolkata,1196.51,No
+Haryana,Rice,2019,Rabi,43486.54,184370.83,4.24,None,Drip,Sandy,No,39.2,707.1,80,Amritsar,2338.97,Yes
+Haryana,Wheat,2020,Kharif,10519.42,18017.9,1.71,Urea,Canal,Sandy,Yes,27.7,410.8,29,Amritsar,3037.16,Yes
+Maharashtra,Sugarcane,2019,Zaid,2353.22,7616.42,3.24,MOP,Drip,Clay,Yes,26.8,928.1,71,Bangalore,3129.39,No
+Karnataka,Maize,2017,Rabi,27589.59,65101.05,2.36,None,Canal,Red,No,37.5,959.3,94,Ludhiana,2070.67,No
+Haryana,Rice,2017,Rabi,41307.43,106596.79,2.58,Urea,Rainfed,Red,No,31.3,130.6,8,Amritsar,4646.39,Yes
+Bihar,Cotton,2017,Kharif,14305.6,62883.92,4.4,DAP,Rainfed,Black,Yes,30.3,322.4,83,Chennai,2473.05,Yes
+Tamil Nadu,Sugarcane,2021,Rabi,27491.12,93807.67,3.41,None,Sprinkler,Sandy,Yes,34.5,451.4,97,Lucknow,1182.2,No
+Bihar,Cotton,2018,Rabi,16824.87,65374.02,3.89,None,Rainfed,Black,Yes,31.6,315.8,78,Chennai,2200.91,Yes
+Tamil Nadu,Maize,2020,Rabi,4844.36,7634.96,1.58,Urea,Sprinkler,Sandy,Yes,23.3,748.9,89,Bangalore,3124.44,Yes
+West Bengal,Wheat,2020,Kharif,3851.49,16352.04,4.25,MOP,Drip,Clay,No,33.5,1932.8,20,Patna,2632.89,No
+Tamil Nadu,Rice,2017,Kharif,14716.76,64232.71,4.36,DAP,Rainfed,Red,No,22.7,1067.5,23,Chennai,2095.37,Yes
+Tamil Nadu,Cotton,2021,Zaid,3338.09,10675.58,3.2,None,Drip,Red,Yes,36.1,1292.4,33,Ludhiana,1525.29,Yes
+Uttar Pradesh,Cotton,2017,Kharif,6687.56,10954.28,1.64,MOP,Canal,Clay,Yes,39.8,777.1,55,Kolkata,4276.66,Yes
+Punjab,Sugarcane,2021,Rabi,38404.86,150575.43,3.92,DAP,Drip,Black,Yes,27.5,714.6,22,Lucknow,4984.58,Yes
+Bihar,Wheat,2021,Zaid,3354.89,14585.17,4.35,Compost,Canal,Black,Yes,28.9,144,62,Mumbai,2318.17,Yes
+Bihar,Rice,2020,Zaid,1749.92,7525.2,4.3,Compost,Drip,Loamy,No,20.9,1050.6,48,Lucknow,2526.48,No
+Karnataka,Wheat,2021,Kharif,8983.79,15377.61,1.71,DAP,Drip,Sandy,Yes,20.3,1018.9,20,Chennai,3472.15,Yes
+Tamil Nadu,Rice,2017,Zaid,40246.52,142130.79,3.53,Urea,Rainfed,Black,Yes,38.4,399.9,69,Mumbai,3873.77,No
+Uttar Pradesh,Sugarcane,2017,Kharif,40749,161444.21,3.96,DAP,Drip,Clay,Yes,22.6,1552.2,6,Bangalore,2568.12,No
+Bihar,Maize,2017,Kharif,32922.75,69797.98,2.12,DAP,Rainfed,Black,No,28.9,1036.1,60,Ludhiana,4619.72,Yes
+West Bengal,Cotton,2020,Zaid,19485.7,31506.22,1.62,Urea,Rainfed,Red,No,36.3,744.1,83,Lucknow,3240.02,No
+Haryana,Maize,2017,Rabi,16629.81,67095.06,4.03,Urea,Sprinkler,Sandy,No,37.8,379.1,32,Patna,2801.56,Yes
+Haryana,Rice,2019,Kharif,25305.84,90561.28,3.58,MOP,Sprinkler,Loamy,Yes,30.4,1149.1,69,Mumbai,3586.69,No
+Haryana,Cotton,2019,Kharif,2920.13,8041.57,2.75,MOP,Canal,Sandy,Yes,31.3,1530.4,9,Mumbai,4811.22,No
+West Bengal,Wheat,2020,Rabi,21750.08,69721.2,3.21,Urea,Drip,Red,Yes,33.4,635.8,26,Lucknow,4178.21,No
+Uttar Pradesh,Wheat,2019,Rabi,13250.81,42954.25,3.24,Compost,Canal,Red,No,39.2,515.7,17,Chennai,1160.05,Yes
+Tamil Nadu,Cotton,2020,Kharif,34312.39,127632.7,3.72,Compost,Drip,Red,No,32.1,1091.7,69,Mumbai,2329.24,No
+Uttar Pradesh,Wheat,2017,Kharif,25757.37,102498.17,3.98,DAP,Sprinkler,Red,Yes,31.2,395.2,20,Bangalore,2882.18,No
+Maharashtra,Cotton,2019,Zaid,20070.88,30758.88,1.53,None,Sprinkler,Clay,Yes,20.3,1366.6,90,Lucknow,2258.07,No
+Punjab,Maize,2020,Kharif,16646.37,72414.8,4.35,DAP,Drip,Loamy,No,21.6,1250.2,68,Bangalore,3800.75,Yes
+Karnataka,Sugarcane,2019,Rabi,31960.02,90937.01,2.85,DAP,Drip,Red,Yes,31.5,265.5,36,Lucknow,4305.08,Yes
+Uttar Pradesh,Sugarcane,2017,Zaid,11423.67,49562.55,4.34,None,Sprinkler,Red,Yes,38.7,169.4,84,Bangalore,3925.38,No
+Karnataka,Wheat,2021,Kharif,25226.59,42195.92,1.67,Urea,Sprinkler,Black,Yes,37.3,1278.5,55,Chennai,4957.33,No
+Tamil Nadu,Rice,2021,Zaid,44497.5,113590.77,2.55,Compost,Canal,Loamy,No,39.7,659.2,83,Lucknow,2090.19,No
+Haryana,Sugarcane,2017,Rabi,42011.23,172271.51,4.1,DAP,Sprinkler,Sandy,Yes,30.6,264.2,62,Ludhiana,4499.96,No
+Maharashtra,Cotton,2018,Kharif,41271.14,149348.98,3.62,None,Drip,Loamy,Yes,35.8,1542.9,50,Kolkata,4066.49,Yes
+West Bengal,Cotton,2021,Rabi,49345.34,129423.57,2.62,MOP,Canal,Loamy,Yes,36.8,696.7,56,Patna,2448.72,Yes
+Punjab,Sugarcane,2017,Zaid,45476.99,148967.44,3.28,DAP,Drip,Loamy,Yes,33,973.2,67,Chennai,3936.5,Yes
+Bihar,Sugarcane,2019,Kharif,19521.39,70574.77,3.62,Compost,Rainfed,Red,No,26.8,549.9,80,Bangalore,1416.3,No
+Haryana,Rice,2019,Zaid,22288.14,50394.52,2.26,Urea,Canal,Red,No,29.4,1291.9,64,Ludhiana,4157.33,Yes
+Haryana,Sugarcane,2018,Kharif,41316.73,154220.27,3.73,DAP,Drip,Clay,No,37.2,672.8,69,Lucknow,3129.32,No
+Uttar Pradesh,Cotton,2020,Rabi,20610.92,60454.81,2.93,DAP,Sprinkler,Sandy,Yes,26,1939.2,85,Chennai,2169.16,No
+Punjab,Wheat,2021,Rabi,40303.35,178693.04,4.43,None,Rainfed,Black,No,38.5,1435.6,59,Bangalore,3623.11,No
+West Bengal,Cotton,2021,Rabi,46307.52,197147.19,4.26,MOP,Drip,Loamy,Yes,24.6,359.8,61,Amritsar,3566.48,Yes
+Bihar,Maize,2019,Kharif,26631.79,90233.72,3.39,MOP,Canal,Sandy,No,35,891.7,96,Amritsar,1837.94,No
+Maharashtra,Wheat,2021,Rabi,29631.4,124554.82,4.2,Urea,Drip,Sandy,Yes,32.6,832.3,75,Mumbai,1121.59,Yes
+Punjab,Maize,2020,Rabi,47570.16,198405.21,4.17,Compost,Rainfed,Clay,No,35,1115.1,77,Patna,2734.49,No
+Bihar,Sugarcane,2021,Rabi,10217.94,29541.04,2.89,Urea,Canal,Black,No,28.7,1699.7,90,Amritsar,3278.05,Yes
+Haryana,Sugarcane,2018,Kharif,48745.35,217337.59,4.46,DAP,Rainfed,Loamy,No,38.7,1208.5,30,Kolkata,4506.42,No
+Maharashtra,Wheat,2017,Kharif,21149.13,69968.63,3.31,DAP,Drip,Black,Yes,32.6,217,16,Bangalore,4712.87,Yes
+Karnataka,Cotton,2021,Rabi,4733.82,20457.66,4.32,MOP,Sprinkler,Clay,Yes,25.8,1345.3,75,Chennai,3115.22,No
+Uttar Pradesh,Cotton,2017,Rabi,5054.67,20875.71,4.13,Compost,Sprinkler,Red,Yes,32.8,115.7,50,Lucknow,4015.21,Yes
+Uttar Pradesh,Cotton,2021,Zaid,21151.5,81069.61,3.83,None,Drip,Sandy,No,25.7,1581.9,51,Chennai,2757.21,No
+Haryana,Wheat,2019,Kharif,37729.34,101075.71,2.68,Compost,Drip,Loamy,Yes,25.9,1366.6,83,Mumbai,3984.33,No
+Uttar Pradesh,Maize,2017,Kharif,4112.08,6622.36,1.61,DAP,Drip,Red,Yes,28,686.7,42,Ludhiana,1819.21,No
+Tamil Nadu,Wheat,2021,Zaid,43371.4,170827.06,3.94,None,Canal,Clay,Yes,37,655.6,25,Chennai,2484.26,Yes
+Tamil Nadu,Cotton,2019,Kharif,29672.33,109145.59,3.68,Compost,Rainfed,Black,Yes,30,1616.7,18,Amritsar,3536.91,No
+Haryana,Rice,2019,Kharif,12813.16,27101.58,2.12,Compost,Rainfed,Sandy,Yes,33.6,1588.3,6,Chennai,1072.63,No
+Punjab,Maize,2021,Kharif,11154.15,46118.64,4.13,None,Rainfed,Loamy,Yes,27.8,769.4,76,Amritsar,3889.85,No
+Karnataka,Rice,2020,Zaid,6564.32,23071.74,3.51,DAP,Drip,Red,No,25.3,668,74,Amritsar,4342.14,Yes
+Haryana,Maize,2019,Rabi,42756.89,134928.79,3.16,Compost,Rainfed,Red,No,39.1,1163.7,37,Patna,2596.57,No
+West Bengal,Maize,2017,Kharif,7566.75,12003.5,1.59,None,Drip,Sandy,Yes,32.1,115.9,10,Mumbai,2791.77,No
+Tamil Nadu,Cotton,2021,Rabi,35499.91,75930.49,2.14,DAP,Canal,Black,No,38.7,257.1,94,Kolkata,4405.13,Yes
+Maharashtra,Sugarcane,2018,Rabi,30796.3,105013.32,3.41,None,Sprinkler,Clay,No,24.1,339.7,41,Kolkata,4102.62,No
+Tamil Nadu,Maize,2019,Zaid,36593.45,114989.02,3.14,None,Drip,Black,Yes,22.9,452.3,18,Bangalore,2152.6,Yes
+Punjab,Sugarcane,2018,Zaid,35184.45,136846.94,3.89,Compost,Drip,Black,Yes,37.1,1072.8,41,Kolkata,2295.9,No
+Haryana,Wheat,2018,Kharif,13653.98,39288.06,2.88,DAP,Sprinkler,Black,No,33.6,1985.3,12,Amritsar,3715.51,Yes
+Haryana,Cotton,2018,Kharif,11247.41,36429.8,3.24,Compost,Sprinkler,Sandy,Yes,23.7,1340,81,Lucknow,3252.79,Yes
+Uttar Pradesh,Maize,2017,Zaid,7274.25,14226.31,1.96,Urea,Canal,Sandy,No,25.4,216.5,17,Mumbai,1648.92,Yes
+Maharashtra,Sugarcane,2020,Kharif,44942.63,131317.19,2.92,Urea,Rainfed,Clay,No,36,1098.6,44,Bangalore,2239.72,No
+West Bengal,Rice,2021,Rabi,11968.6,47459.95,3.97,DAP,Drip,Black,No,29.1,1043.6,96,Kolkata,4599.93,No
+Haryana,Sugarcane,2018,Kharif,2558.43,8049.19,3.15,None,Rainfed,Sandy,Yes,33.4,373.9,62,Kolkata,3752.7,Yes
+West Bengal,Wheat,2020,Rabi,44816.65,84535.19,1.89,Compost,Drip,Clay,No,26.4,1848.5,22,Lucknow,4943.9,No
+Haryana,Cotton,2019,Kharif,5522.24,16254.36,2.94,Compost,Canal,Clay,Yes,27.6,937.5,61,Chennai,4068.05,No
+Maharashtra,Maize,2021,Kharif,14567,57082.3,3.92,DAP,Sprinkler,Black,Yes,39.8,1989.7,87,Mumbai,4767.9,Yes
+Punjab,Maize,2021,Zaid,27292.94,116598.86,4.27,DAP,Canal,Loamy,Yes,25,898.1,42,Lucknow,1864.75,Yes
+Maharashtra,Rice,2020,Zaid,27032.02,98979.04,3.66,Urea,Sprinkler,Black,Yes,30.1,1255.1,36,Kolkata,4085.94,Yes
+Haryana,Maize,2019,Zaid,34671.11,139839.75,4.03,MOP,Rainfed,Loamy,Yes,36.9,299,90,Mumbai,1080.87,Yes
+Uttar Pradesh,Sugarcane,2021,Rabi,22923.21,71012.71,3.1,DAP,Rainfed,Clay,No,24.8,963,70,Mumbai,3683.04,No
+Tamil Nadu,Wheat,2021,Rabi,28634.29,115170.84,4.02,MOP,Canal,Sandy,Yes,28.3,553.7,81,Kolkata,2877.13,No
+Maharashtra,Rice,2020,Kharif,44635.84,146440.25,3.28,DAP,Sprinkler,Red,Yes,32.3,1687.6,91,Chennai,2387.04,No
+Bihar,Rice,2019,Kharif,25423.67,44765,1.76,None,Canal,Clay,Yes,29.6,1589.4,29,Chennai,4449.62,No
+Tamil Nadu,Rice,2017,Zaid,19559.86,49141.03,2.51,None,Sprinkler,Sandy,Yes,29.2,1665.9,96,Kolkata,4417.07,No
+Bihar,Rice,2018,Zaid,18448.74,82273,4.46,Urea,Sprinkler,Clay,Yes,27.3,1474.9,62,Mumbai,1089.21,No
+West Bengal,Wheat,2017,Kharif,5987.34,11726.67,1.96,Urea,Rainfed,Black,No,31.7,1682.1,79,Lucknow,3438.02,Yes
+Tamil Nadu,Sugarcane,2019,Rabi,14969.66,30240.52,2.02,MOP,Rainfed,Loamy,Yes,32.5,481.6,37,Patna,2471.33,No
+Tamil Nadu,Wheat,2019,Zaid,1893.88,6800.7,3.59,DAP,Sprinkler,Clay,Yes,33.1,958.9,92,Amritsar,2662.64,No
+Karnataka,Rice,2020,Zaid,43409.85,171521.7,3.95,Compost,Sprinkler,Sandy,No,21.4,1414.5,70,Chennai,4328.16,No
+Punjab,Maize,2017,Rabi,28281.38,90920.06,3.21,Urea,Sprinkler,Black,Yes,32.6,1311,34,Kolkata,2239.36,Yes
+Uttar Pradesh,Cotton,2020,Kharif,10165.14,25118.44,2.47,Compost,Rainfed,Red,No,39.1,1461.1,85,Ludhiana,4772.2,Yes
+Uttar Pradesh,Sugarcane,2017,Kharif,26962.16,97648.59,3.62,Compost,Rainfed,Black,No,30.8,526.1,38,Patna,1718.54,No
+Maharashtra,Cotton,2019,Zaid,24575.86,76130.32,3.1,DAP,Drip,Loamy,No,34.3,287,90,Chennai,3650.89,Yes
+Punjab,Rice,2018,Kharif,4105.37,18350.51,4.47,MOP,Sprinkler,Black,No,31.1,1841.9,73,Ludhiana,3688.42,Yes
+West Bengal,Rice,2020,Kharif,7802.41,11767.07,1.51,DAP,Drip,Red,Yes,37.1,1164.3,52,Mumbai,2008.78,No
+Punjab,Maize,2019,Rabi,6228.26,25238.05,4.05,Urea,Sprinkler,Sandy,Yes,38.6,392.3,44,Kolkata,2299,No
+Bihar,Sugarcane,2018,Rabi,46713.97,208941.7,4.47,Compost,Rainfed,Clay,No,23.7,1607.5,55,Patna,4339.19,No
+Haryana,Sugarcane,2019,Zaid,46396.02,170031.65,3.66,DAP,Drip,Loamy,No,28.7,1838.4,84,Kolkata,4047.22,Yes
+Bihar,Cotton,2019,Kharif,37774.59,147268.45,3.9,DAP,Drip,Red,Yes,27.8,422.2,17,Lucknow,2316.38,Yes
+Uttar Pradesh,Cotton,2021,Kharif,12548.9,42682.27,3.4,DAP,Canal,Loamy,No,28.1,1653.1,94,Lucknow,3135.83,No
+Maharashtra,Sugarcane,2017,Kharif,29827.03,105854.52,3.55,Urea,Sprinkler,Black,No,22.5,1873.1,35,Bangalore,1246.72,Yes
+Karnataka,Maize,2021,Rabi,27449.27,77303.57,2.82,MOP,Rainfed,Loamy,No,36.3,1882.9,43,Amritsar,1834.98,Yes
+Punjab,Wheat,2017,Kharif,20182.62,62476.76,3.1,DAP,Canal,Red,Yes,20.7,1836.9,67,Amritsar,2943.28,Yes
+West Bengal,Maize,2019,Rabi,47051.77,159181.98,3.38,Urea,Canal,Clay,No,30.6,1138.2,52,Chennai,1343.89,No
+Karnataka,Rice,2020,Zaid,44052.83,131553.68,2.99,Compost,Sprinkler,Clay,Yes,33.2,776.8,91,Amritsar,4373.33,No
+Maharashtra,Maize,2020,Kharif,8432.07,20533.49,2.44,None,Canal,Loamy,Yes,24.1,113.8,52,Kolkata,3872.02,No
+West Bengal,Maize,2017,Rabi,11022.69,40146.76,3.64,Urea,Sprinkler,Sandy,Yes,38.1,215.7,65,Kolkata,4774.53,No
+West Bengal,Maize,2018,Kharif,6042.89,18790.03,3.11,None,Canal,Loamy,No,36.8,914.8,16,Bangalore,3773.87,No
+Tamil Nadu,Sugarcane,2021,Zaid,40067.47,78121.64,1.95,DAP,Sprinkler,Black,No,29.4,858.7,82,Ludhiana,4761.61,Yes
+Tamil Nadu,Sugarcane,2020,Kharif,36281.79,124208.64,3.42,DAP,Rainfed,Clay,Yes,28.2,451,60,Lucknow,3218.05,Yes
+Uttar Pradesh,Sugarcane,2020,Rabi,13338.15,33840.06,2.54,Urea,Sprinkler,Clay,Yes,24.7,851.4,22,Ludhiana,3400.87,Yes
+Uttar Pradesh,Rice,2018,Rabi,31132.56,131863.74,4.24,None,Sprinkler,Clay,Yes,34.6,431.8,31,Ludhiana,4907.88,Yes
+Karnataka,Rice,2017,Kharif,1887.4,7769.24,4.12,DAP,Drip,Sandy,No,22.6,1712.7,32,Patna,3568.52,Yes
+Bihar,Sugarcane,2020,Kharif,46202.47,167332.22,3.62,Compost,Rainfed,Sandy,No,33.6,666.6,86,Patna,1123.15,Yes
+Haryana,Wheat,2020,Zaid,30729.04,85192.95,2.77,MOP,Rainfed,Red,Yes,36.8,1237.3,84,Lucknow,3895.21,No
+West Bengal,Wheat,2019,Zaid,7017.73,15493.17,2.21,MOP,Rainfed,Loamy,Yes,24.6,1055.4,56,Mumbai,4621.87,No
+Haryana,Sugarcane,2017,Kharif,43624.92,133340.19,3.06,DAP,Canal,Loamy,No,37.3,198.6,20,Lucknow,4182.32,Yes
+Karnataka,Cotton,2017,Kharif,17424.66,68105.34,3.91,None,Drip,Black,Yes,20.7,1890.2,81,Patna,3335.33,No
+West Bengal,Rice,2017,Zaid,20510.27,63831.79,3.11,DAP,Rainfed,Clay,No,38.3,1101.7,62,Ludhiana,3685.21,Yes
+Uttar Pradesh,Rice,2018,Zaid,37137.56,106089.15,2.86,None,Canal,Sandy,No,22.4,717.6,97,Chennai,4960.77,Yes
+Uttar Pradesh,Maize,2020,Zaid,7901.99,16034.41,2.03,Compost,Canal,Black,Yes,32.9,400.4,13,Bangalore,1362.65,No
+Tamil Nadu,Sugarcane,2021,Kharif,18757.3,60806.76,3.24,None,Canal,Black,Yes,25,743.2,30,Ludhiana,3668.98,No
+Maharashtra,Rice,2020,Rabi,33513.33,68169.73,2.03,DAP,Drip,Sandy,No,36.7,139,32,Lucknow,2133.59,Yes
+Bihar,Wheat,2017,Rabi,43170.97,134054.89,3.11,Compost,Canal,Loamy,No,30.2,790.8,81,Mumbai,3560.36,No
+Karnataka,Wheat,2017,Kharif,20468.59,56910.19,2.78,Urea,Drip,Clay,No,22.7,1109.8,40,Ludhiana,3430.49,Yes
+Karnataka,Maize,2021,Kharif,2790.93,8138.91,2.92,MOP,Sprinkler,Loamy,No,31.4,1756.5,13,Chennai,1613.83,Yes
+Karnataka,Maize,2018,Kharif,39000.85,111537.22,2.86,DAP,Canal,Black,No,28.2,1406,51,Lucknow,1826.99,Yes
+Haryana,Sugarcane,2017,Rabi,25353.59,96243.97,3.8,DAP,Rainfed,Clay,Yes,33.2,312,82,Chennai,3486.52,Yes
+Bihar,Wheat,2021,Zaid,47359.66,124078.9,2.62,DAP,Canal,Red,No,37.6,380.7,55,Ludhiana,1512.92,Yes
+Haryana,Maize,2018,Kharif,2243.93,4417.08,1.97,Compost,Sprinkler,Black,No,28.2,913.4,80,Lucknow,2060.72,No
+Haryana,Cotton,2017,Kharif,11876.64,26048.14,2.19,Urea,Sprinkler,Loamy,No,25.8,471.8,61,Chennai,4340.98,Yes
+Uttar Pradesh,Cotton,2017,Zaid,28902.73,120304.19,4.16,None,Canal,Loamy,Yes,20.3,152.9,36,Kolkata,2308.37,No
+Bihar,Rice,2019,Rabi,30556.67,119798.97,3.92,Urea,Sprinkler,Loamy,Yes,31.5,1629.5,71,Amritsar,2952.24,Yes
+Karnataka,Sugarcane,2020,Kharif,7913.01,21516.87,2.72,Compost,Drip,Sandy,No,28,137.1,61,Chennai,4764.56,No
+Tamil Nadu,Rice,2018,Zaid,37059.33,149882.17,4.04,DAP,Drip,Black,No,27.5,1678.3,58,Kolkata,1908.6,Yes
+Karnataka,Cotton,2019,Kharif,21649.8,90453.19,4.18,MOP,Canal,Clay,Yes,23.7,373.8,20,Ludhiana,2558.5,No
+Tamil Nadu,Cotton,2020,Zaid,13711.75,36186.37,2.64,DAP,Drip,Loamy,Yes,28.6,1951.9,66,Amritsar,3425.83,Yes
+Tamil Nadu,Sugarcane,2020,Kharif,17914.42,68460.02,3.82,None,Drip,Loamy,Yes,39.7,1247.4,88,Patna,4021.36,Yes
+Punjab,Rice,2021,Zaid,47474.21,179966.06,3.79,MOP,Rainfed,Sandy,Yes,26,1496.5,60,Amritsar,4606.61,No
+Karnataka,Wheat,2018,Rabi,24884.13,104106.66,4.18,DAP,Canal,Clay,No,32,309.9,27,Chennai,4661.89,No
+Karnataka,Wheat,2018,Zaid,26110.43,97262.94,3.73,MOP,Sprinkler,Black,Yes,35.5,1738,21,Bangalore,4106.56,No
+Haryana,Cotton,2017,Zaid,11683.13,40133.45,3.44,Urea,Canal,Red,No,35,1694.5,84,Bangalore,1913.32,No
+Maharashtra,Sugarcane,2018,Rabi,45128.04,161272.52,3.57,Compost,Drip,Sandy,No,26.6,1340.7,42,Patna,1099.24,No
+West Bengal,Maize,2018,Kharif,40937.67,122578.53,2.99,DAP,Rainfed,Black,Yes,32.2,1054.3,76,Chennai,2535.1,No
+Haryana,Wheat,2021,Kharif,25375.78,92890.78,3.66,None,Canal,Red,Yes,37.4,1470.8,87,Amritsar,1566.2,Yes
+West Bengal,Rice,2021,Zaid,45100.91,185891.08,4.12,Urea,Canal,Loamy,Yes,20.3,111.3,34,Bangalore,3841.55,Yes
+Karnataka,Rice,2020,Kharif,33586.8,68050.68,2.03,DAP,Drip,Loamy,Yes,28.7,1225.6,62,Lucknow,3644.52,Yes
+West Bengal,Wheat,2018,Kharif,19773.79,60443.59,3.06,Urea,Drip,Clay,No,24.5,1710.1,82,Mumbai,1175.89,No
+Karnataka,Rice,2020,Rabi,37163.65,64976.78,1.75,None,Canal,Red,No,27.8,778.1,26,Chennai,4346.38,No
+Bihar,Maize,2018,Kharif,20075.49,47500.24,2.37,DAP,Drip,Loamy,No,28.3,305.7,21,Kolkata,1994.97,No
+Karnataka,Sugarcane,2017,Zaid,15558.96,49776.44,3.2,None,Drip,Loamy,Yes,34.9,899.7,19,Kolkata,2728.91,Yes
+Haryana,Cotton,2017,Rabi,2527.97,5780.94,2.29,MOP,Drip,Clay,No,21.9,1481.5,52,Lucknow,3671.73,No
+Uttar Pradesh,Sugarcane,2019,Kharif,25321.95,83322.6,3.29,None,Drip,Black,Yes,30.3,303.9,36,Lucknow,2717.68,Yes
+Haryana,Wheat,2018,Rabi,6223.31,10737.78,1.73,MOP,Drip,Loamy,No,31.3,491.5,81,Chennai,2765.15,No
+Punjab,Wheat,2017,Kharif,34731.72,97404.48,2.8,DAP,Rainfed,Sandy,Yes,29.9,380.3,89,Mumbai,1262.51,No
+Tamil Nadu,Maize,2019,Rabi,40171.38,143977.82,3.58,MOP,Drip,Sandy,No,34.6,1614.2,44,Bangalore,2605.77,No
+Maharashtra,Rice,2020,Zaid,16415.23,64385.3,3.92,DAP,Sprinkler,Black,No,27.7,219.5,61,Mumbai,4059.39,Yes
+Punjab,Cotton,2017,Rabi,34837.45,106738.53,3.06,DAP,Canal,Red,Yes,38.9,1404.5,62,Patna,4660.71,No
+Bihar,Maize,2021,Kharif,33280.38,119038.25,3.58,Compost,Rainfed,Clay,No,29.6,796.3,95,Amritsar,2653.99,Yes
+Maharashtra,Wheat,2018,Kharif,32686.58,117002.45,3.58,DAP,Rainfed,Sandy,No,31.4,1536,20,Amritsar,2694.34,No
+Punjab,Cotton,2018,Zaid,3164.11,10330.16,3.26,MOP,Drip,Sandy,Yes,36.5,1932.3,32,Lucknow,3810.51,No
+Punjab,Rice,2021,Rabi,45858.93,73458.57,1.6,Compost,Canal,Black,Yes,25.5,317.6,5,Bangalore,4771.09,No
+West Bengal,Wheat,2019,Rabi,21666.37,84196.07,3.89,Compost,Sprinkler,Red,Yes,21.5,697.3,45,Mumbai,2068.24,No
+Tamil Nadu,Sugarcane,2019,Rabi,26599.29,91332.38,3.43,DAP,Drip,Red,Yes,34.2,1639.2,52,Lucknow,2760.58,Yes
+Maharashtra,Maize,2020,Kharif,4770.71,17121.44,3.59,None,Canal,Black,Yes,29.7,605.7,35,Chennai,4183.89,No
+Karnataka,Rice,2020,Zaid,16449.23,51296.49,3.12,None,Drip,Sandy,No,37.9,508.7,40,Lucknow,3438.77,Yes
+West Bengal,Wheat,2021,Rabi,26488.24,73649.26,2.78,Compost,Drip,Clay,Yes,39.7,1668.2,37,Chennai,1442.35,No
+Bihar,Rice,2019,Rabi,49526.72,74325.37,1.5,DAP,Drip,Sandy,No,28,1975.5,37,Chennai,3510.93,No
+West Bengal,Cotton,2018,Zaid,4431.46,6773.29,1.53,None,Drip,Red,No,28.3,1158.1,86,Patna,1746.99,No
+West Bengal,Wheat,2021,Rabi,24513.91,82918.7,3.38,DAP,Drip,Sandy,Yes,28.2,628.3,27,Patna,3040.86,Yes
+Karnataka,Sugarcane,2017,Rabi,5493.27,13783.23,2.51,DAP,Drip,Clay,No,26.5,857.3,64,Chennai,3116.41,No
+Bihar,Cotton,2017,Rabi,1163.97,3377.76,2.9,Compost,Drip,Loamy,No,35.6,423.2,91,Ludhiana,4504.81,Yes
+Karnataka,Rice,2020,Rabi,12446.78,20241.94,1.63,Compost,Sprinkler,Sandy,Yes,35.2,1547.6,83,Bangalore,2849.98,Yes
+Punjab,Cotton,2017,Zaid,19832.01,70184.33,3.54,Urea,Rainfed,Black,No,29.6,1569.6,94,Patna,2117.77,No
+Bihar,Maize,2018,Kharif,39530.91,69899.86,1.77,None,Sprinkler,Loamy,Yes,20.9,1762.7,34,Patna,1923.87,Yes
+Maharashtra,Maize,2021,Rabi,9184.66,41087.63,4.47,None,Drip,Black,Yes,26.2,150.5,93,Amritsar,4497.01,No
+Uttar Pradesh,Sugarcane,2021,Zaid,12297.89,49092.29,3.99,None,Drip,Black,Yes,25.8,1167.8,49,Lucknow,1684.04,Yes
+Maharashtra,Rice,2019,Rabi,19820.44,31914.79,1.61,MOP,Sprinkler,Black,No,36.2,507.1,84,Amritsar,2703.47,Yes
+Haryana,Maize,2021,Kharif,31859.12,68464.36,2.15,DAP,Sprinkler,Sandy,No,21.8,747.7,43,Bangalore,1748.69,Yes
+Punjab,Maize,2020,Rabi,26726.54,60955.22,2.28,Compost,Rainfed,Red,No,36.1,1591.4,49,Patna,4093.22,Yes
+Uttar Pradesh,Rice,2018,Rabi,49820.45,208862.69,4.19,None,Sprinkler,Loamy,No,33.4,464.9,82,Kolkata,2897.49,No
+Uttar Pradesh,Cotton,2021,Zaid,2708.39,11333.97,4.18,Urea,Rainfed,Clay,Yes,34.6,1312.8,85,Ludhiana,2404.57,Yes
+West Bengal,Rice,2019,Kharif,20167.32,46765.56,2.32,None,Drip,Red,No,28.6,1343.7,16,Patna,2444.4,No
+West Bengal,Wheat,2019,Kharif,42757.48,68679.93,1.61,DAP,Canal,Sandy,Yes,33.6,1912.8,97,Mumbai,4408.86,Yes
+Tamil Nadu,Wheat,2021,Zaid,5262.35,14341.8,2.73,DAP,Canal,Black,No,32.2,1572.8,36,Bangalore,3215.1,No
+Tamil Nadu,Maize,2021,Rabi,27097.52,118859.64,4.39,Compost,Canal,Clay,No,35.4,1626.9,60,Kolkata,3871.47,No
+Karnataka,Cotton,2020,Kharif,49582.29,83523.9,1.68,MOP,Canal,Loamy,No,28.9,1110,28,Lucknow,4588.15,Yes
+West Bengal,Cotton,2019,Rabi,28994.63,101085.02,3.49,Compost,Drip,Red,No,29.5,454.9,17,Lucknow,4606.97,Yes
+Karnataka,Maize,2021,Kharif,36961.59,113242.21,3.06,None,Canal,Red,No,32.9,908.6,24,Kolkata,2314.04,No
+Karnataka,Sugarcane,2017,Zaid,43497.42,157682.02,3.63,Urea,Sprinkler,Clay,Yes,22.2,1144,83,Lucknow,4809.81,Yes
+Uttar Pradesh,Cotton,2017,Kharif,34326.9,115195.38,3.36,Compost,Sprinkler,Sandy,No,28.7,1389,60,Ludhiana,1099.5,Yes
+Maharashtra,Sugarcane,2021,Zaid,48104.45,139330.21,2.9,MOP,Canal,Loamy,No,39.4,1254.6,57,Kolkata,2507.34,Yes
+Tamil Nadu,Rice,2018,Zaid,12202.63,51569.58,4.23,Compost,Sprinkler,Clay,No,20.8,848.6,72,Bangalore,4583.2,Yes
+Haryana,Sugarcane,2018,Rabi,38075.15,86661.52,2.28,DAP,Rainfed,Black,No,26.3,604.1,58,Kolkata,2098.55,Yes
+Haryana,Cotton,2019,Kharif,28432.37,52529.7,1.85,None,Drip,Loamy,Yes,26.3,419.6,38,Kolkata,2092.33,Yes
+Haryana,Sugarcane,2021,Zaid,7293.99,17141.09,2.35,None,Canal,Red,No,32.7,1418.3,32,Mumbai,2210.49,Yes
+Tamil Nadu,Rice,2017,Rabi,17751.74,60318.03,3.4,None,Canal,Clay,Yes,22.1,1326.3,54,Mumbai,3449.25,Yes
+Maharashtra,Cotton,2021,Rabi,46924.2,167221.76,3.56,None,Drip,Red,No,32.6,1406,6,Amritsar,2753.33,Yes
+Haryana,Sugarcane,2019,Kharif,38778.23,140598.85,3.63,None,Sprinkler,Red,Yes,21.9,807.8,98,Bangalore,3906.94,No
+Maharashtra,Wheat,2018,Zaid,42768.32,191193.43,4.47,None,Drip,Red,Yes,21.9,598.6,30,Bangalore,4579.64,Yes
+Tamil Nadu,Cotton,2020,Zaid,7374.23,27836.17,3.77,Urea,Drip,Sandy,Yes,34.6,1543.5,55,Mumbai,3696.8,Yes
+Tamil Nadu,Cotton,2019,Kharif,16856.9,49996.38,2.97,MOP,Sprinkler,Red,Yes,26.5,1569.9,51,Chennai,1817.87,Yes
+Uttar Pradesh,Maize,2018,Zaid,22849.23,53030.32,2.32,None,Drip,Black,Yes,39.5,965.7,30,Chennai,4730.73,Yes
+West Bengal,Sugarcane,2017,Zaid,23117.96,46024.89,1.99,MOP,Sprinkler,Black,No,20.7,1262.6,88,Amritsar,2057.97,Yes
+Tamil Nadu,Cotton,2021,Zaid,11817.71,20647.23,1.75,None,Sprinkler,Loamy,Yes,28.9,809.7,96,Ludhiana,1599.58,No
+Maharashtra,Sugarcane,2019,Zaid,43534.66,191104.53,4.39,Compost,Drip,Red,No,22.3,1433.7,88,Chennai,1359.87,No
+Karnataka,Sugarcane,2021,Kharif,45566.7,185551.26,4.07,None,Rainfed,Red,Yes,27,1687.9,79,Chennai,3253.53,Yes
+Bihar,Maize,2017,Kharif,49214.9,134258.35,2.73,DAP,Sprinkler,Clay,Yes,40,1407.6,78,Chennai,1455.05,No
+Bihar,Rice,2021,Zaid,2525.57,8725.85,3.46,Urea,Drip,Sandy,No,37.8,1073.9,65,Ludhiana,1555.1,Yes
+Bihar,Rice,2020,Zaid,48441.48,99623.61,2.06,Compost,Sprinkler,Loamy,Yes,21,971.5,27,Patna,2200.12,Yes
+Punjab,Cotton,2021,Zaid,23230.99,71808.46,3.09,Compost,Rainfed,Red,Yes,31.3,1320.4,41,Amritsar,2126.61,No
+Tamil Nadu,Maize,2021,Kharif,45679.97,201107.61,4.4,DAP,Rainfed,Clay,Yes,33,1391.6,45,Mumbai,3416.96,No
+Bihar,Wheat,2017,Rabi,34592.7,96545.38,2.79,None,Canal,Sandy,Yes,24.2,1161.6,56,Chennai,4266.98,No
+Maharashtra,Wheat,2020,Zaid,32924.45,81579.42,2.48,Urea,Sprinkler,Loamy,No,22.9,1287.4,87,Lucknow,4045.4,No
+Haryana,Maize,2021,Kharif,1569.41,2695.21,1.72,Compost,Sprinkler,Loamy,Yes,38.1,283.5,86,Kolkata,2049.94,No
+Karnataka,Rice,2019,Kharif,38095.9,166019.87,4.36,Urea,Drip,Red,Yes,39.4,1908.4,53,Patna,1981.24,Yes
+Punjab,Maize,2019,Kharif,12860.21,57356.38,4.46,Compost,Sprinkler,Loamy,No,39.8,1602.5,31,Ludhiana,4863.17,Yes
+Karnataka,Sugarcane,2020,Kharif,28422.79,43467.33,1.53,None,Canal,Clay,No,35.8,810.5,10,Ludhiana,1032.94,Yes
+Bihar,Wheat,2018,Kharif,5305.46,13538.9,2.55,Compost,Rainfed,Loamy,Yes,33.3,1169.3,78,Ludhiana,4518.88,No
+Punjab,Cotton,2020,Rabi,20449.24,38815.67,1.9,Compost,Rainfed,Black,Yes,26.9,189.9,70,Chennai,1798.91,Yes
+Tamil Nadu,Rice,2018,Rabi,41250.6,66972.43,1.62,MOP,Canal,Clay,No,23.4,178.3,28,Kolkata,4789.14,No
+Bihar,Wheat,2019,Kharif,35617.31,56801.01,1.59,None,Sprinkler,Sandy,Yes,21.6,576.5,42,Kolkata,2369.23,Yes
+Maharashtra,Wheat,2017,Rabi,46824.89,203316.08,4.34,DAP,Sprinkler,Sandy,No,33.9,1410.4,32,Patna,2761.41,No
+Bihar,Sugarcane,2019,Zaid,4925.63,20611.05,4.18,DAP,Canal,Red,Yes,35.7,1719.1,32,Amritsar,3828.48,No
+Bihar,Rice,2018,Zaid,32535.31,100182.99,3.08,None,Drip,Red,No,36.5,1162.5,70,Ludhiana,3350.68,Yes
+Haryana,Maize,2018,Rabi,30070.65,103770.28,3.45,DAP,Rainfed,Black,No,38.3,1111.1,65,Lucknow,2271.76,Yes
+Punjab,Cotton,2019,Rabi,17121.85,49833.96,2.91,None,Canal,Sandy,No,37.6,864.4,50,Lucknow,3215.32,Yes
+West Bengal,Cotton,2021,Zaid,3139.42,6231.8,1.99,DAP,Canal,Sandy,Yes,40,407,73,Lucknow,3922.83,Yes
+Maharashtra,Rice,2019,Rabi,17283.42,54052.79,3.13,MOP,Sprinkler,Sandy,Yes,24.9,324.9,79,Ludhiana,1169.34,No
+Uttar Pradesh,Maize,2020,Rabi,20759.81,44876.14,2.16,DAP,Rainfed,Sandy,Yes,35.3,1545.3,78,Chennai,1044.8,Yes
+Maharashtra,Wheat,2020,Kharif,43545.35,160312.52,3.68,Compost,Sprinkler,Loamy,Yes,31.7,1862.3,47,Patna,2832.27,No
+West Bengal,Sugarcane,2021,Rabi,49394.83,80035.81,1.62,None,Canal,Clay,No,25.2,970.7,63,Ludhiana,1527.35,Yes
+Punjab,Maize,2017,Rabi,36537.63,108151.63,2.96,Urea,Drip,Clay,No,39.6,1352.9,6,Lucknow,3657.38,Yes
+Haryana,Rice,2020,Rabi,33095.46,148148.52,4.48,Urea,Rainfed,Black,No,38,1837.5,19,Kolkata,1856.21,Yes
+Haryana,Cotton,2020,Zaid,31525.36,107018.53,3.39,None,Canal,Loamy,Yes,22.6,271.2,41,Ludhiana,2731.4,Yes
+Tamil Nadu,Wheat,2019,Rabi,36075.42,152494.32,4.23,MOP,Canal,Sandy,Yes,20.5,1563.9,75,Kolkata,1790.68,Yes
+Tamil Nadu,Rice,2020,Rabi,48598.36,99283.09,2.04,DAP,Drip,Sandy,Yes,33.8,1272,24,Bangalore,3193.93,No
+West Bengal,Cotton,2017,Rabi,5772.28,15672.1,2.72,MOP,Canal,Red,No,32.1,1237.4,39,Ludhiana,1464.21,Yes
+Maharashtra,Wheat,2020,Rabi,5667.81,19590.05,3.46,Urea,Canal,Red,Yes,38.7,655.8,38,Bangalore,1092.43,No
+Punjab,Wheat,2020,Rabi,43041.33,65728.04,1.53,None,Rainfed,Black,Yes,24.7,1399.4,90,Patna,1204.53,Yes
+Punjab,Sugarcane,2020,Kharif,12614.36,27802.33,2.2,None,Rainfed,Sandy,No,21.7,1610.1,35,Ludhiana,4817.03,No
+Haryana,Maize,2018,Kharif,17513.16,69818.84,3.99,MOP,Rainfed,Black,No,25.2,314.4,91,Chennai,1569.14,Yes
+Punjab,Cotton,2020,Zaid,47480.58,107191.37,2.26,MOP,Sprinkler,Loamy,Yes,20.4,1113.7,23,Chennai,3833.91,Yes
+Maharashtra,Sugarcane,2020,Kharif,30671.37,78831.44,2.57,DAP,Drip,Clay,No,20.7,292.4,72,Amritsar,1271.7,Yes
+Bihar,Cotton,2017,Kharif,35563.89,100969.65,2.84,Compost,Rainfed,Sandy,Yes,38.3,1757.9,28,Amritsar,1432.64,No
+Tamil Nadu,Sugarcane,2019,Kharif,2675.2,11931.6,4.46,Compost,Sprinkler,Loamy,No,27,1064.5,88,Lucknow,3035.51,No
+Punjab,Cotton,2020,Rabi,2927.83,5464.3,1.87,DAP,Sprinkler,Sandy,No,28.2,1635.1,43,Mumbai,2859.48,Yes
+Maharashtra,Cotton,2021,Zaid,16491.65,49832.89,3.02,Compost,Drip,Red,No,20.4,799.4,96,Kolkata,4806.32,Yes
+Maharashtra,Sugarcane,2018,Kharif,24514.96,87221.85,3.56,Urea,Drip,Black,Yes,25.4,337.6,58,Amritsar,4779.34,Yes
+Maharashtra,Rice,2017,Rabi,48681.79,157745.39,3.24,Compost,Canal,Red,Yes,36.1,178.8,43,Chennai,4118.43,No
+Karnataka,Maize,2018,Zaid,33676.35,64623.36,1.92,DAP,Sprinkler,Clay,Yes,32.3,634.9,21,Kolkata,3408.41,Yes
+Karnataka,Cotton,2020,Rabi,10890.82,38338.92,3.52,Compost,Rainfed,Red,No,35.1,564,23,Mumbai,2819.84,No
+Haryana,Cotton,2017,Zaid,33957.5,96142.19,2.83,None,Drip,Sandy,No,28.9,1164.7,52,Amritsar,2424.71,Yes
+West Bengal,Rice,2017,Zaid,48952.93,128398.17,2.62,MOP,Sprinkler,Red,No,26.2,141.3,39,Patna,4788.35,No
+Maharashtra,Rice,2018,Kharif,41712.98,170765.7,4.09,Urea,Rainfed,Sandy,No,29.7,1089.1,36,Bangalore,3411.64,No
+Punjab,Sugarcane,2019,Kharif,34786.81,122781.44,3.53,None,Sprinkler,Clay,Yes,26.5,844.4,51,Amritsar,3316.29,No
+Uttar Pradesh,Cotton,2021,Kharif,6223.06,21616.02,3.47,None,Drip,Red,Yes,36.8,1196.5,51,Ludhiana,1927.6,Yes
+Haryana,Wheat,2017,Kharif,49673.51,186637.45,3.76,DAP,Canal,Black,Yes,26,1434.6,68,Amritsar,1186.79,No
+West Bengal,Cotton,2017,Zaid,44047.26,119474.71,2.71,MOP,Sprinkler,Black,No,33.2,1304.8,50,Ludhiana,4780.75,Yes
+Maharashtra,Sugarcane,2019,Rabi,45167.41,186707.32,4.13,MOP,Rainfed,Black,No,22.7,1970.8,39,Patna,2254.94,No
+Tamil Nadu,Maize,2021,Zaid,19407.94,46396.77,2.39,Urea,Drip,Red,Yes,33.7,362.7,98,Chennai,2770.36,Yes
+Tamil Nadu,Wheat,2021,Zaid,31880.23,106145.08,3.33,DAP,Canal,Red,No,38.3,916.5,21,Lucknow,1458.56,No
+Tamil Nadu,Cotton,2019,Kharif,22985.99,50859.55,2.21,Urea,Rainfed,Red,Yes,32.2,907.2,46,Patna,4347.7,No
+Punjab,Maize,2020,Rabi,4586.6,15183.23,3.31,Compost,Rainfed,Sandy,No,31.2,892.4,33,Lucknow,1110.53,Yes
+Maharashtra,Rice,2018,Rabi,25521.82,79809.05,3.13,None,Rainfed,Clay,No,39.2,1361.2,74,Amritsar,4335.96,Yes
+Karnataka,Rice,2020,Kharif,40874.55,74667.79,1.83,Urea,Sprinkler,Black,Yes,32.5,1030.7,21,Chennai,1561.14,No
+West Bengal,Rice,2021,Zaid,27146.52,90227.3,3.32,None,Drip,Sandy,Yes,25.2,1083.1,85,Mumbai,4546.26,No
+Karnataka,Rice,2020,Zaid,26540.47,105290.83,3.97,DAP,Rainfed,Black,No,25.8,921.5,18,Amritsar,3919.09,Yes
+Uttar Pradesh,Cotton,2020,Zaid,12930.63,55357.37,4.28,Compost,Sprinkler,Sandy,Yes,34.1,1984.2,28,Patna,1658.68,No
+Tamil Nadu,Sugarcane,2021,Kharif,18229.51,32890.82,1.8,DAP,Drip,Red,Yes,34.7,1862.4,61,Mumbai,3263.27,No
+West Bengal,Sugarcane,2021,Rabi,16057.21,62768.88,3.91,Compost,Drip,Black,No,26.1,684.7,54,Bangalore,2250.63,Yes
+Uttar Pradesh,Rice,2020,Rabi,36091.38,83655.2,2.32,Compost,Sprinkler,Red,No,26.9,312,61,Mumbai,1712.93,Yes
+Bihar,Rice,2017,Rabi,9876.32,34995.29,3.54,None,Sprinkler,Black,No,39.8,1695.6,65,Patna,4436.73,Yes
+Haryana,Cotton,2017,Rabi,10076.19,42856.63,4.25,DAP,Rainfed,Loamy,Yes,22,1994.6,43,Kolkata,2614.09,No
+Bihar,Sugarcane,2017,Kharif,32024.42,139441.05,4.35,DAP,Drip,Sandy,No,28.1,656,59,Mumbai,2594.17,No
+Tamil Nadu,Cotton,2020,Kharif,39893.45,137226.2,3.44,Urea,Canal,Loamy,No,21.2,779.8,40,Patna,1679.55,No
+Karnataka,Rice,2017,Kharif,45388.66,172923.26,3.81,DAP,Sprinkler,Sandy,No,36.4,1889.1,41,Kolkata,2532.26,Yes
+Punjab,Rice,2019,Kharif,15800.96,58398.36,3.7,Urea,Drip,Clay,No,21.8,1451.1,18,Amritsar,4486.47,No
+Bihar,Sugarcane,2018,Kharif,5681.23,19154.71,3.37,MOP,Drip,Black,No,33.5,661.7,31,Kolkata,2452.51,Yes
+Punjab,Rice,2021,Zaid,12526.54,51456.26,4.11,MOP,Rainfed,Clay,Yes,21.1,1204,87,Chennai,4806.41,Yes
+Punjab,Cotton,2017,Rabi,2158.29,7394.12,3.43,MOP,Canal,Clay,No,33.5,1894,35,Bangalore,4785.24,No
+Bihar,Maize,2018,Kharif,20154.39,66175.51,3.28,DAP,Rainfed,Sandy,No,36.9,1642.4,77,Kolkata,1579.59,Yes
+Maharashtra,Wheat,2018,Zaid,30255.3,106726.29,3.53,DAP,Canal,Loamy,Yes,28,1509.5,85,Chennai,1709.25,No
+Haryana,Cotton,2017,Kharif,1775.23,4479.38,2.52,Urea,Canal,Red,No,30.4,1500.3,87,Chennai,4450.7,Yes
+Maharashtra,Maize,2020,Rabi,17524.13,73891.8,4.22,Compost,Sprinkler,Sandy,No,28,438.2,48,Chennai,2571.04,Yes
+West Bengal,Sugarcane,2021,Kharif,30191.79,81625.43,2.7,Urea,Drip,Red,Yes,26,1666.9,72,Kolkata,1017.5,Yes
+Punjab,Maize,2017,Zaid,4401.77,13457,3.06,MOP,Drip,Clay,No,36.1,624.6,52,Patna,2095.49,No
+Haryana,Sugarcane,2021,Zaid,32368.24,74882.06,2.31,Urea,Drip,Red,Yes,25.4,1867.7,61,Ludhiana,3390.52,Yes
+Karnataka,Rice,2019,Rabi,12310.63,35338.6,2.87,Compost,Canal,Loamy,No,34.5,792.8,79,Patna,4197.06,No
+Maharashtra,Rice,2020,Rabi,18784.27,84274.53,4.49,DAP,Drip,Sandy,Yes,24.1,1729.6,26,Bangalore,1533.55,Yes
+Tamil Nadu,Sugarcane,2020,Rabi,47923.64,97088.93,2.03,Urea,Sprinkler,Loamy,Yes,25,605.8,8,Patna,1442.17,Yes
+Tamil Nadu,Wheat,2018,Rabi,21711.77,86096.27,3.97,MOP,Canal,Loamy,No,26.7,1077.6,85,Lucknow,4688.37,Yes
+Bihar,Wheat,2020,Zaid,46431.71,102332.06,2.2,MOP,Canal,Sandy,Yes,31.8,303.1,76,Patna,4004.59,No
+Bihar,Maize,2021,Kharif,42259.63,129435.92,3.06,DAP,Canal,Loamy,Yes,29.1,1354.2,50,Patna,3359.12,No
+Maharashtra,Rice,2017,Kharif,41477.31,159525.23,3.85,Urea,Canal,Black,No,34.9,1688.6,63,Patna,4076.75,No
+Haryana,Cotton,2020,Kharif,12140.51,30655.07,2.53,Compost,Sprinkler,Black,No,24.3,1465,38,Amritsar,2715.42,No
+Punjab,Cotton,2018,Zaid,12713.71,38512.02,3.03,DAP,Drip,Black,Yes,20.2,1094.2,15,Bangalore,4033.82,No
+Uttar Pradesh,Sugarcane,2018,Rabi,26268.29,111855,4.26,Urea,Sprinkler,Red,No,35.5,185.7,35,Lucknow,2487.21,Yes
+Uttar Pradesh,Sugarcane,2021,Rabi,25556.5,68786.25,2.69,None,Drip,Loamy,Yes,36.4,1873.5,15,Patna,1976.38,Yes
+Maharashtra,Rice,2021,Zaid,34040.89,105439.74,3.1,MOP,Sprinkler,Sandy,Yes,21.2,1440.4,60,Ludhiana,3916.05,No
+Maharashtra,Maize,2020,Rabi,4965.04,13450,2.71,Compost,Rainfed,Sandy,No,32.2,1517.1,42,Bangalore,2678.69,No
+Haryana,Maize,2018,Zaid,17958.89,79500.96,4.43,Compost,Rainfed,Red,No,27.6,1609.9,25,Mumbai,4925.51,No
+Karnataka,Rice,2017,Rabi,7493.71,30619.62,4.09,Compost,Rainfed,Sandy,Yes,35.9,1520.7,98,Amritsar,2397.94,No
+Bihar,Wheat,2021,Zaid,47687.08,189584.87,3.98,MOP,Rainfed,Black,No,37.5,938.1,14,Kolkata,4686.91,Yes
+West Bengal,Cotton,2018,Kharif,2264.78,4315.54,1.91,Urea,Canal,Loamy,No,37,1493.9,30,Ludhiana,4731.85,No
+Bihar,Cotton,2020,Kharif,46886.01,193560.25,4.13,DAP,Canal,Sandy,Yes,35.5,1287.6,95,Patna,1967.41,No
+West Bengal,Sugarcane,2021,Zaid,31359.81,108210.26,3.45,Urea,Sprinkler,Sandy,Yes,25.4,1722.6,12,Ludhiana,4192.88,No
+Uttar Pradesh,Maize,2021,Zaid,10397.34,22201.09,2.14,DAP,Sprinkler,Clay,Yes,36.2,1624.7,12,Lucknow,2732.3,No
+Maharashtra,Maize,2018,Kharif,31355.39,75004.14,2.39,Compost,Rainfed,Clay,Yes,30.7,178.6,64,Amritsar,4670.1,Yes
+Tamil Nadu,Maize,2017,Zaid,4656.86,17920.01,3.85,Urea,Drip,Clay,Yes,21.1,819.9,76,Lucknow,2800.5,Yes
+Maharashtra,Maize,2020,Kharif,25961.68,116570.29,4.49,Compost,Rainfed,Loamy,Yes,29.1,166,38,Kolkata,3977.21,No
+Punjab,Cotton,2020,Kharif,31570.9,97273.87,3.08,None,Sprinkler,Black,No,38.8,293.9,20,Kolkata,2867.87,Yes
+Tamil Nadu,Rice,2021,Zaid,23039.45,48011.16,2.08,Compost,Rainfed,Black,Yes,37.8,1242.7,17,Ludhiana,1911.2,Yes
+Tamil Nadu,Maize,2020,Rabi,41549.36,153767.66,3.7,Compost,Sprinkler,Black,No,22,1760.3,91,Amritsar,1797.4,No
+Maharashtra,Cotton,2018,Rabi,24585.86,38294.37,1.56,DAP,Rainfed,Loamy,No,34.9,327.7,80,Mumbai,2701.72,No
+Tamil Nadu,Cotton,2018,Zaid,7718.38,23972.75,3.11,None,Drip,Loamy,Yes,36.1,957.1,95,Ludhiana,4021.98,Yes
+Punjab,Cotton,2021,Rabi,12818.87,56757.1,4.43,Compost,Rainfed,Clay,No,25.4,1830.7,26,Bangalore,3420.29,Yes
+Haryana,Cotton,2021,Kharif,6377.07,20048.73,3.14,Compost,Drip,Sandy,Yes,29.4,1647.2,31,Amritsar,3754.52,Yes
+Tamil Nadu,Cotton,2020,Zaid,8312.65,15641.08,1.88,None,Drip,Red,No,34.2,1087.4,68,Chennai,2129.31,Yes
+Haryana,Sugarcane,2020,Rabi,24324.89,63917.66,2.63,None,Sprinkler,Red,Yes,28.8,1566,6,Kolkata,2925.74,Yes
+Bihar,Cotton,2018,Kharif,47854.89,90897.25,1.9,Urea,Drip,Sandy,Yes,22.3,1093.1,30,Mumbai,1177.58,No
+Karnataka,Wheat,2017,Kharif,34718.6,97656.8,2.81,DAP,Canal,Clay,Yes,34.1,400.4,96,Ludhiana,4270.13,Yes
+West Bengal,Wheat,2018,Rabi,2882.89,12123.38,4.21,None,Canal,Sandy,Yes,38.2,337,87,Kolkata,4959.57,Yes
+West Bengal,Sugarcane,2019,Zaid,33308.34,139407.17,4.19,None,Canal,Sandy,No,33,457.9,73,Chennai,2627.52,Yes
+Karnataka,Wheat,2017,Zaid,26401.99,51497.27,1.95,MOP,Sprinkler,Red,No,35.5,766.8,88,Mumbai,1043.85,Yes
+Karnataka,Sugarcane,2017,Zaid,34331.16,55788.78,1.63,None,Canal,Clay,No,27.2,1868,34,Kolkata,1679.17,Yes
+Punjab,Maize,2017,Kharif,40304.4,73196.93,1.82,DAP,Sprinkler,Loamy,No,23.7,1619.4,12,Chennai,3610.11,Yes
+Punjab,Cotton,2020,Kharif,19992.17,57694.22,2.89,Compost,Sprinkler,Red,No,32.9,922.3,42,Chennai,3448.32,Yes
+Bihar,Maize,2020,Zaid,47173.45,181689.86,3.85,Compost,Canal,Loamy,Yes,26.6,1036.8,65,Kolkata,4151.46,Yes
+Uttar Pradesh,Maize,2018,Kharif,27931.19,111490.23,3.99,Compost,Drip,Clay,Yes,37.2,604.7,85,Ludhiana,2015.54,No
+Karnataka,Rice,2020,Kharif,15476.79,58930.5,3.81,Compost,Rainfed,Sandy,Yes,22.5,1438.3,69,Kolkata,4054.53,No
+Punjab,Wheat,2018,Zaid,11078.68,20652.42,1.86,MOP,Sprinkler,Black,Yes,28.7,1625.3,71,Lucknow,3751.94,Yes
+Maharashtra,Sugarcane,2017,Kharif,48031.5,140961.21,2.93,None,Canal,Black,Yes,27.9,553.9,50,Amritsar,2291.26,No
+Tamil Nadu,Rice,2018,Kharif,7136.44,20859.87,2.92,Compost,Sprinkler,Clay,No,38.8,179.5,94,Amritsar,3181.95,No
+Haryana,Cotton,2021,Zaid,26517.64,88820.81,3.35,Urea,Drip,Black,Yes,23.1,1285.4,99,Mumbai,1589.1,No
+Haryana,Maize,2018,Zaid,6429.59,21189.32,3.3,Compost,Drip,Loamy,Yes,20.2,1168.8,76,Bangalore,2810.26,No
+Punjab,Wheat,2019,Rabi,22530.84,75226.39,3.34,None,Canal,Black,No,24.8,864,47,Kolkata,4524.79,No
+Maharashtra,Sugarcane,2020,Kharif,34123.13,101964.81,2.99,Compost,Sprinkler,Clay,No,36.4,1323.4,63,Ludhiana,2684.77,No
+Punjab,Cotton,2019,Rabi,40981.4,167372.55,4.08,MOP,Rainfed,Clay,Yes,24.2,1146.2,50,Lucknow,4358.27,Yes
+Punjab,Sugarcane,2017,Zaid,13359.81,50301.37,3.77,DAP,Rainfed,Loamy,Yes,24.8,576.1,76,Amritsar,3361.01,Yes
+West Bengal,Sugarcane,2019,Rabi,37906.18,87487.23,2.31,DAP,Sprinkler,Black,No,22.6,855.7,39,Amritsar,1767.51,No
+Bihar,Cotton,2021,Rabi,6289.24,22363.87,3.56,None,Sprinkler,Black,Yes,34.3,913.4,43,Ludhiana,3324.42,Yes
+Bihar,Maize,2018,Zaid,24931.31,48666.62,1.95,DAP,Sprinkler,Sandy,Yes,21.4,1772.5,96,Lucknow,3023.93,No
+Bihar,Cotton,2019,Kharif,29927.04,90531.74,3.03,DAP,Canal,Red,Yes,26.6,1925.7,55,Patna,2594.57,Yes
+Tamil Nadu,Maize,2021,Rabi,43792.82,149284.21,3.41,Urea,Drip,Clay,No,25.6,1796.7,8,Lucknow,1478.52,Yes
+Karnataka,Cotton,2018,Rabi,1457.25,3264.29,2.24,None,Rainfed,Sandy,Yes,31.1,1466.4,84,Ludhiana,2666.83,Yes
+West Bengal,Maize,2017,Zaid,20673.22,80629.96,3.9,None,Canal,Clay,Yes,34.6,1211.5,81,Amritsar,1291.05,No
+Uttar Pradesh,Wheat,2018,Kharif,36920.49,123608.19,3.35,DAP,Sprinkler,Sandy,No,30.7,1409.6,88,Bangalore,1395.08,Yes
+Uttar Pradesh,Rice,2017,Kharif,27396.09,84173.87,3.07,DAP,Sprinkler,Red,No,38.6,1884.3,55,Patna,2663.67,Yes
+Haryana,Rice,2018,Rabi,41801.34,64085.42,1.53,DAP,Drip,Sandy,No,39,575,9,Ludhiana,2221.53,No
+Punjab,Rice,2021,Kharif,34240.56,129045.62,3.77,MOP,Sprinkler,Clay,Yes,27.2,1116.7,59,Ludhiana,4702.18,No
+Tamil Nadu,Maize,2021,Rabi,19047.17,54205.04,2.85,Compost,Canal,Black,No,35.6,1410.3,24,Chennai,2502.82,Yes
+Bihar,Rice,2019,Rabi,20184.76,55263.16,2.74,MOP,Canal,Clay,Yes,34.8,1390.6,28,Lucknow,4031.43,No
+Karnataka,Cotton,2018,Rabi,9177.37,18758.16,2.04,None,Drip,Loamy,No,37.9,579.3,40,Chennai,3120.99,Yes
+West Bengal,Sugarcane,2017,Zaid,43838.86,132846.17,3.03,Urea,Canal,Loamy,Yes,29,1214.8,38,Patna,3816.34,Yes
+Uttar Pradesh,Cotton,2018,Zaid,35444.23,58781.13,1.66,Compost,Rainfed,Loamy,No,30.6,1612.2,58,Patna,2040.46,No
+Karnataka,Rice,2018,Zaid,14221.22,56531.46,3.98,Urea,Canal,Loamy,Yes,28.3,1002.7,38,Patna,4767.62,No
+Punjab,Maize,2021,Rabi,49116.49,104594.84,2.13,None,Canal,Red,Yes,37,1607.3,87,Mumbai,3120.35,Yes
+Bihar,Maize,2021,Rabi,17081.44,47863.19,2.8,None,Canal,Black,No,24.6,783.8,21,Lucknow,4325.3,No
+Haryana,Sugarcane,2017,Zaid,40266.98,153005.08,3.8,Urea,Rainfed,Black,No,24.8,1883.6,9,Ludhiana,2460.18,Yes
+Punjab,Sugarcane,2021,Kharif,21641.15,73764.55,3.41,Urea,Sprinkler,Clay,Yes,27.5,1114.5,93,Kolkata,1400.85,No
+Karnataka,Maize,2020,Zaid,37259.33,162113.04,4.35,Urea,Canal,Sandy,No,24.6,1232.3,22,Bangalore,3694.85,No
+West Bengal,Wheat,2020,Kharif,49002.69,97803.6,2,None,Drip,Clay,Yes,31.2,159.6,59,Bangalore,1031.04,No
+Uttar Pradesh,Wheat,2021,Rabi,26385.86,63225.18,2.4,DAP,Rainfed,Clay,No,22.7,423.5,57,Ludhiana,2901.17,No
+West Bengal,Maize,2018,Zaid,22053.18,90819.2,4.12,Urea,Drip,Clay,No,26.4,1302.6,54,Chennai,1771.21,No
+West Bengal,Cotton,2020,Kharif,22323.84,96261.73,4.31,Compost,Canal,Clay,Yes,38.3,897.8,76,Ludhiana,3509.5,Yes
+Bihar,Rice,2020,Rabi,36669.03,109617.79,2.99,None,Drip,Black,No,28.2,1065.5,95,Chennai,4917.68,Yes
+Punjab,Wheat,2020,Rabi,3806.73,8282.19,2.18,MOP,Canal,Sandy,No,35,219.6,83,Kolkata,2857.61,Yes
+Bihar,Sugarcane,2017,Zaid,46208.53,134752.45,2.92,MOP,Rainfed,Clay,Yes,22.3,1684.9,49,Chennai,4269.99,No
+West Bengal,Sugarcane,2018,Rabi,2778.09,6465.06,2.33,Compost,Drip,Black,Yes,25,1590.6,17,Lucknow,3031.14,Yes
+Tamil Nadu,Sugarcane,2018,Rabi,22015.46,88818.47,4.03,DAP,Drip,Clay,No,36.1,452.2,20,Amritsar,2983.36,Yes
+Maharashtra,Sugarcane,2017,Kharif,42801.39,70172.95,1.64,Urea,Canal,Loamy,Yes,35.3,1305.2,90,Chennai,4721.69,No
+Haryana,Rice,2019,Kharif,17950.1,43898.2,2.45,None,Canal,Clay,No,27.7,1654.8,88,Patna,4559.86,No
+Uttar Pradesh,Rice,2019,Zaid,44224.65,118537.25,2.68,Urea,Sprinkler,Clay,No,39.1,1317.6,17,Chennai,4143.2,No
+Haryana,Sugarcane,2017,Kharif,49083.56,111399.57,2.27,None,Canal,Red,Yes,38.2,689.8,24,Patna,2185.02,Yes
+Uttar Pradesh,Rice,2021,Kharif,23732.69,104803.94,4.42,MOP,Canal,Loamy,Yes,39.2,1346.6,70,Mumbai,3180.03,Yes
+Karnataka,Sugarcane,2017,Kharif,6590.69,12876.5,1.95,Urea,Sprinkler,Sandy,Yes,28.6,499.9,51,Amritsar,1895.59,No
+Bihar,Rice,2017,Zaid,34503.95,108180.81,3.14,Compost,Canal,Clay,Yes,23.9,704.7,23,Amritsar,2775.67,Yes
+Karnataka,Cotton,2021,Rabi,20794.92,65038.97,3.13,DAP,Canal,Sandy,Yes,32.5,556.1,49,Kolkata,2936.85,Yes
+Tamil Nadu,Wheat,2017,Rabi,5004.54,14387.56,2.87,Compost,Sprinkler,Loamy,Yes,33.7,1158.2,41,Lucknow,4326.56,No
+Punjab,Rice,2021,Kharif,47339.21,191720.3,4.05,DAP,Rainfed,Clay,No,22.5,305.6,58,Ludhiana,4584.11,Yes
+Haryana,Rice,2018,Zaid,32897.7,103176.91,3.14,Urea,Rainfed,Red,No,35.7,1873.3,10,Lucknow,2658.48,No
+Karnataka,Sugarcane,2019,Rabi,48925.03,189925.46,3.88,Urea,Canal,Black,Yes,20.4,733.7,18,Bangalore,1070.82,Yes
+Punjab,Cotton,2020,Rabi,17180.54,64775.01,3.77,DAP,Canal,Red,No,29.7,516,8,Mumbai,4447.1,No
+Maharashtra,Cotton,2020,Rabi,12701.01,36245.1,2.85,MOP,Sprinkler,Red,No,26.6,1043.4,90,Kolkata,1697.11,Yes
+Haryana,Sugarcane,2018,Kharif,2331.2,3952.81,1.7,None,Sprinkler,Black,No,34.8,626.3,59,Lucknow,3487.53,Yes
+Maharashtra,Maize,2020,Kharif,20145.69,78468.12,3.9,Compost,Rainfed,Black,No,26.3,1116.3,38,Patna,1099.88,No
+Tamil Nadu,Sugarcane,2017,Zaid,19640.58,75161.27,3.83,Compost,Drip,Black,Yes,36.5,762.2,31,Mumbai,2598.03,No
+Uttar Pradesh,Maize,2020,Rabi,5607.77,14412.04,2.57,Compost,Canal,Clay,No,31.9,350.9,11,Amritsar,4943.84,No
+Punjab,Sugarcane,2021,Kharif,16305.11,55894.31,3.43,Urea,Drip,Sandy,No,35.9,605.2,7,Ludhiana,1402.77,No
+Tamil Nadu,Rice,2018,Rabi,39869.81,97692.4,2.45,Compost,Drip,Sandy,Yes,39.8,933,51,Ludhiana,2694.77,Yes
+Uttar Pradesh,Cotton,2019,Zaid,14568.32,64837.25,4.45,None,Sprinkler,Black,Yes,33.6,157.6,6,Patna,2228.6,No
+Punjab,Sugarcane,2017,Zaid,10027.02,41932.69,4.18,None,Canal,Red,Yes,39.7,1564.2,84,Kolkata,4620.35,No
+Bihar,Maize,2021,Rabi,31149.6,54524.02,1.75,DAP,Canal,Loamy,Yes,20.6,1281.5,29,Kolkata,4477.36,No
+Karnataka,Wheat,2020,Zaid,25755.13,113358.11,4.4,Urea,Sprinkler,Black,No,26.8,1242.6,64,Mumbai,1950.8,No
+Tamil Nadu,Cotton,2021,Kharif,36534.09,90203.9,2.47,None,Drip,Red,Yes,22.2,1137.5,83,Amritsar,1324.75,No
+Bihar,Rice,2019,Zaid,7361.5,26211.23,3.56,MOP,Sprinkler,Red,No,25.2,1221.6,28,Lucknow,3508.55,Yes
+Uttar Pradesh,Wheat,2020,Kharif,41324.96,87991.54,2.13,Urea,Rainfed,Clay,No,36.8,1875.8,19,Patna,2345.47,No
+Maharashtra,Cotton,2019,Kharif,17505.18,41828.09,2.39,Urea,Canal,Clay,Yes,20.6,116.3,99,Patna,3688.34,No
+Maharashtra,Rice,2019,Kharif,24087.23,95503.72,3.96,None,Rainfed,Sandy,Yes,30.4,190.8,18,Amritsar,1128.48,No
+Bihar,Wheat,2021,Rabi,41143.5,170312.11,4.14,MOP,Sprinkler,Sandy,Yes,31.3,463.8,58,Patna,1533.6,Yes
+Maharashtra,Rice,2021,Rabi,5931.24,13165.11,2.22,DAP,Canal,Loamy,Yes,31.2,417.9,82,Ludhiana,3745.49,Yes
+Bihar,Rice,2017,Zaid,23067.2,86420.78,3.75,None,Rainfed,Loamy,Yes,29.5,444.3,10,Lucknow,1849.48,Yes
+Punjab,Wheat,2021,Zaid,42343.13,95776.97,2.26,MOP,Rainfed,Loamy,Yes,35.8,1376.7,82,Lucknow,4430.35,No
+Punjab,Sugarcane,2021,Rabi,16930.1,60253.91,3.56,Urea,Drip,Loamy,No,22.7,973,85,Lucknow,1234.36,No
+Bihar,Wheat,2020,Kharif,42015.02,98223.9,2.34,MOP,Canal,Red,No,26.2,1984.4,22,Amritsar,1861.93,Yes
+Tamil Nadu,Maize,2020,Rabi,26120.08,63104.34,2.42,Urea,Rainfed,Red,No,32.3,531.1,24,Chennai,4994.24,Yes
+Tamil Nadu,Cotton,2019,Kharif,15893.37,54982.93,3.46,None,Rainfed,Sandy,No,33.8,690.6,66,Chennai,2732.3,No
+Maharashtra,Sugarcane,2020,Kharif,38537.17,148959.34,3.87,None,Drip,Clay,Yes,28.1,1970.1,85,Kolkata,3811.86,No
+West Bengal,Rice,2019,Kharif,43837.11,65780.44,1.5,Compost,Rainfed,Clay,Yes,37.5,1680.3,84,Kolkata,1730.65,No
+Uttar Pradesh,Maize,2018,Rabi,23557.56,96437.37,4.09,Compost,Rainfed,Black,No,28.3,992.6,44,Ludhiana,3439.47,Yes
+Karnataka,Maize,2019,Rabi,40315.36,118414.69,2.94,Compost,Rainfed,Red,No,28.1,1153.7,43,Patna,3904.42,No
+Punjab,Wheat,2018,Rabi,14721.83,59991.83,4.08,None,Drip,Loamy,No,20.7,1702,56,Lucknow,2257.91,No
+Uttar Pradesh,Maize,2019,Rabi,35266.45,141714.09,4.02,DAP,Rainfed,Loamy,Yes,31,1013.9,36,Patna,4315.59,Yes
+West Bengal,Wheat,2019,Zaid,27101.12,92286.56,3.41,None,Rainfed,Black,Yes,34.2,491.4,77,Amritsar,3413.67,Yes
+Bihar,Cotton,2021,Kharif,12852.8,19757.48,1.54,MOP,Canal,Clay,Yes,22.3,1674,31,Patna,2556.49,Yes
+Karnataka,Sugarcane,2017,Rabi,30319.52,72515.6,2.39,None,Canal,Loamy,No,26.1,1121.8,56,Bangalore,3230.57,No
+Uttar Pradesh,Wheat,2020,Zaid,45241.85,183536.76,4.06,None,Drip,Clay,No,35.6,390.8,67,Chennai,3307.04,Yes
+Punjab,Cotton,2017,Zaid,31682.63,98024.46,3.09,Urea,Sprinkler,Black,Yes,27.3,1060.6,78,Patna,1662.14,Yes
+Maharashtra,Wheat,2020,Zaid,14121.06,54612.95,3.87,Urea,Canal,Clay,Yes,24.8,885.1,67,Patna,2610.93,No
+West Bengal,Cotton,2021,Kharif,30349.95,55989.56,1.84,Urea,Drip,Clay,No,33.4,1766,21,Mumbai,2373.72,No
+West Bengal,Wheat,2021,Kharif,33790.81,134753.03,3.99,None,Rainfed,Clay,No,23.9,339.5,53,Ludhiana,2603.61,Yes
+Karnataka,Wheat,2021,Zaid,22090.94,54141.35,2.45,DAP,Rainfed,Loamy,Yes,37.9,1762.9,85,Patna,4044.44,No
+Bihar,Wheat,2019,Rabi,9076.41,18259.43,2.01,MOP,Drip,Sandy,No,22.1,1073.2,86,Bangalore,2930.15,Yes
+West Bengal,Maize,2020,Kharif,35429.05,78379.7,2.21,MOP,Rainfed,Red,Yes,34.1,868.3,27,Chennai,4761.26,No
+Tamil Nadu,Sugarcane,2020,Rabi,39550.77,174509.81,4.41,DAP,Rainfed,Clay,Yes,30,407.7,76,Mumbai,2174.71,No
+Bihar,Rice,2018,Zaid,37436.1,113012.03,3.02,DAP,Sprinkler,Clay,No,37.4,1431.6,17,Ludhiana,2662.81,Yes
+Tamil Nadu,Wheat,2018,Kharif,2948.53,9766.17,3.31,MOP,Rainfed,Clay,No,22.5,1860.9,27,Amritsar,4147.83,Yes
+Uttar Pradesh,Maize,2020,Rabi,48605.1,121223.11,2.49,Compost,Canal,Sandy,No,33.6,813.2,61,Kolkata,3184.1,Yes
+Punjab,Maize,2019,Kharif,24240.13,79328.31,3.27,Urea,Rainfed,Black,Yes,31.4,559,66,Amritsar,3188.11,No
+West Bengal,Wheat,2017,Rabi,41832.54,168659.34,4.03,Urea,Drip,Loamy,No,29.6,1154.2,58,Chennai,1213.36,Yes
+Punjab,Rice,2021,Kharif,29030.38,88194.39,3.04,MOP,Sprinkler,Sandy,No,29.8,1612.8,24,Kolkata,2594.4,No
+Uttar Pradesh,Wheat,2017,Kharif,14943.55,59096.06,3.95,DAP,Rainfed,Clay,Yes,34.4,107.2,90,Amritsar,2082.93,No
+West Bengal,Maize,2019,Zaid,29164.2,46342.05,1.59,Compost,Drip,Sandy,Yes,38.8,1299.6,56,Ludhiana,4997.34,Yes
+Karnataka,Maize,2019,Zaid,7442.97,17298.91,2.32,MOP,Canal,Sandy,No,21.8,1233.4,27,Bangalore,2233.42,No
+Punjab,Sugarcane,2019,Kharif,35987.6,119612.55,3.32,Urea,Rainfed,Sandy,Yes,20.4,704.5,39,Patna,4537.99,No
+Karnataka,Wheat,2021,Rabi,47797.97,189451.79,3.96,None,Sprinkler,Black,Yes,36.1,957.7,71,Chennai,3704.93,Yes
+Karnataka,Wheat,2019,Rabi,3505.63,7967.67,2.27,DAP,Rainfed,Red,Yes,22.2,569.2,38,Kolkata,2363.67,No
+Tamil Nadu,Wheat,2020,Rabi,13578.02,47467.08,3.5,None,Drip,Loamy,No,39.7,1600.8,37,Mumbai,3174.14,No
+Punjab,Sugarcane,2018,Kharif,6930.23,19105.56,2.76,MOP,Sprinkler,Black,No,32.4,1305.6,50,Patna,4362.14,Yes
+Bihar,Wheat,2017,Rabi,16732.97,62741.15,3.75,Urea,Rainfed,Black,Yes,33,1112.2,85,Amritsar,4533.47,Yes
+Haryana,Cotton,2017,Rabi,18734.08,61466.19,3.28,Compost,Canal,Red,Yes,24,845.8,49,Amritsar,1641.58,No
+Haryana,Rice,2019,Rabi,6671.14,13095.21,1.96,None,Sprinkler,Black,Yes,24.8,653.6,23,Mumbai,2358.29,No
+Uttar Pradesh,Sugarcane,2019,Kharif,45220.21,76844.13,1.7,Compost,Canal,Sandy,No,33.2,1663.2,98,Bangalore,2340.89,No
+Karnataka,Rice,2017,Kharif,21679.68,51708.68,2.39,Urea,Drip,Sandy,Yes,38.2,957.7,91,Ludhiana,1168.18,No
+Punjab,Cotton,2018,Kharif,7027.16,22317.75,3.18,None,Rainfed,Clay,Yes,39.6,1052.8,19,Ludhiana,3392.95,Yes
+Tamil Nadu,Wheat,2017,Rabi,42434.61,151808.9,3.58,Compost,Canal,Black,No,24,1089.6,82,Mumbai,4419.28,No
+Haryana,Sugarcane,2019,Kharif,14493.68,35059.35,2.42,Compost,Drip,Clay,Yes,22.7,951.9,70,Chennai,2526.3,No
+Haryana,Sugarcane,2020,Rabi,19827.74,56516.4,2.85,None,Rainfed,Loamy,No,21.1,586.6,43,Mumbai,3960.14,No
+Bihar,Wheat,2019,Rabi,19132.56,30272.7,1.58,Urea,Drip,Sandy,No,37.4,328.6,22,Amritsar,3510.8,No
+Bihar,Wheat,2018,Kharif,32641.28,53346.8,1.63,Compost,Canal,Loamy,No,25.9,287.2,74,Bangalore,2502.59,Yes
+Punjab,Wheat,2020,Zaid,2246.94,7723.78,3.44,MOP,Drip,Red,Yes,20,1539.2,63,Bangalore,1564.24,No
+Bihar,Maize,2019,Zaid,4513.88,12317.87,2.73,None,Sprinkler,Sandy,Yes,24.5,524.7,36,Lucknow,3837.3,Yes
+Punjab,Wheat,2021,Rabi,42244.44,136900.06,3.24,DAP,Rainfed,Loamy,No,26.8,205.8,25,Mumbai,4418.26,Yes
+Maharashtra,Wheat,2020,Kharif,7887.1,23320.33,2.96,DAP,Drip,Red,Yes,39.8,1615.3,44,Chennai,3743.42,Yes
+Karnataka,Maize,2019,Zaid,7653.66,13760.57,1.8,Urea,Canal,Loamy,No,30.5,392.7,96,Amritsar,1071.51,Yes
+Maharashtra,Maize,2019,Rabi,20376.28,49710.36,2.44,MOP,Rainfed,Red,Yes,24.1,1287.8,31,Patna,1864.93,Yes
+West Bengal,Cotton,2018,Kharif,41938.53,109509.51,2.61,Compost,Sprinkler,Red,No,26.7,743.4,6,Ludhiana,1277.92,No
+Bihar,Cotton,2019,Zaid,22762.26,102079.04,4.48,DAP,Rainfed,Sandy,No,26.6,340.3,84,Ludhiana,3281.54,Yes
+Punjab,Wheat,2021,Kharif,30736.99,60083.22,1.95,Urea,Sprinkler,Clay,Yes,20.4,887.5,43,Ludhiana,4025.91,Yes
+Punjab,Cotton,2020,Kharif,8553.11,27037.53,3.16,MOP,Rainfed,Red,Yes,22.7,128.1,90,Bangalore,1442.32,Yes
+Haryana,Cotton,2021,Zaid,42088.91,108107.76,2.57,MOP,Drip,Red,Yes,33.9,1698,60,Ludhiana,4353.35,No
+Haryana,Cotton,2019,Rabi,3824.73,9666.41,2.53,Urea,Drip,Sandy,Yes,22.4,1075.6,17,Mumbai,3222.04,Yes
+Bihar,Cotton,2020,Zaid,28327.73,72004.31,2.54,Urea,Canal,Clay,No,24.6,364.4,60,Lucknow,3759.88,No
+Bihar,Cotton,2019,Kharif,31685.48,94001.11,2.97,Compost,Sprinkler,Black,No,27,550.3,70,Chennai,4885.61,Yes
+Uttar Pradesh,Cotton,2017,Zaid,44135.42,148745.98,3.37,Urea,Canal,Black,Yes,35.2,951.2,82,Chennai,1334.72,Yes
+Punjab,Rice,2019,Kharif,36810.08,71557.04,1.94,Compost,Drip,Clay,Yes,31.6,458.9,60,Kolkata,4604.9,No
+West Bengal,Wheat,2021,Rabi,12159.74,53406.63,4.39,Compost,Sprinkler,Loamy,No,33.8,610.3,32,Ludhiana,1504.41,No
+West Bengal,Rice,2019,Rabi,27135.94,111526.2,4.11,None,Canal,Sandy,Yes,31.3,1115.3,68,Amritsar,2571.84,No
+West Bengal,Maize,2020,Kharif,39916.32,92897.36,2.33,MOP,Canal,Clay,Yes,33.7,1682,75,Bangalore,4405.75,Yes
+Maharashtra,Rice,2020,Rabi,8291,23944.63,2.89,MOP,Canal,Black,Yes,20.1,863.5,86,Amritsar,4625.02,No
+Karnataka,Sugarcane,2020,Rabi,29847.84,78380.12,2.63,MOP,Canal,Red,Yes,38.6,1462.3,68,Ludhiana,3025.49,No
+Maharashtra,Maize,2017,Rabi,38328.11,101938.27,2.66,None,Canal,Black,No,22.2,1765.7,60,Lucknow,3376.42,No
+Uttar Pradesh,Wheat,2019,Rabi,36560.11,152944.02,4.18,Compost,Sprinkler,Red,No,28.1,511,45,Patna,3832.59,No
+Uttar Pradesh,Rice,2020,Zaid,30503.73,99875.93,3.27,Compost,Canal,Sandy,Yes,35.4,1633.7,45,Ludhiana,4331.03,No
+Tamil Nadu,Cotton,2019,Zaid,6353.95,25809.02,4.06,Urea,Sprinkler,Red,No,28.7,1539.1,8,Patna,1486.04,Yes
+Punjab,Wheat,2017,Kharif,44761.42,75529.2,1.69,None,Canal,Clay,Yes,38.9,778.2,61,Patna,4240.28,No
+Maharashtra,Maize,2019,Kharif,26011.19,87912.04,3.38,Urea,Drip,Red,Yes,29.4,1980.1,34,Chennai,2925.1,Yes
+Tamil Nadu,Rice,2021,Rabi,36412.64,130269.76,3.58,None,Drip,Loamy,Yes,37.5,598.9,92,Bangalore,2802.49,No
+Haryana,Cotton,2020,Rabi,17336.96,64132.08,3.7,Urea,Canal,Clay,No,36.2,584.1,88,Ludhiana,2695.6,No
+Maharashtra,Wheat,2019,Zaid,10831.9,48569.65,4.48,DAP,Rainfed,Sandy,No,39.6,1567.3,50,Amritsar,3036.85,Yes
+Karnataka,Maize,2017,Kharif,32012.41,54648.02,1.71,MOP,Drip,Clay,No,38.5,925.8,60,Amritsar,4780.2,Yes
+West Bengal,Cotton,2020,Kharif,38539.68,155614.14,4.04,MOP,Sprinkler,Loamy,No,38,728.5,35,Lucknow,3192.82,Yes
+Haryana,Wheat,2018,Rabi,14736.39,52494.25,3.56,Compost,Canal,Sandy,No,34.6,439.5,92,Patna,4812.71,Yes
+Tamil Nadu,Maize,2019,Zaid,31972.4,103306.72,3.23,DAP,Sprinkler,Black,Yes,27.3,1554.1,11,Bangalore,1721.16,No
+Karnataka,Rice,2021,Kharif,5946.12,24419.72,4.11,MOP,Rainfed,Loamy,Yes,22.1,1594,94,Bangalore,3896.54,Yes
+Haryana,Wheat,2018,Rabi,12869.33,37768.65,2.93,Compost,Canal,Sandy,No,33.8,1176.5,81,Lucknow,4248.96,No
+Haryana,Rice,2018,Kharif,33675.87,71841.99,2.13,DAP,Drip,Red,No,39.6,1918.9,58,Mumbai,3716.52,No
+Haryana,Maize,2019,Rabi,16753.29,49075.6,2.93,MOP,Sprinkler,Clay,No,34.5,704.5,12,Bangalore,3427.69,No
+Punjab,Wheat,2017,Rabi,48970.07,162114.4,3.31,Urea,Drip,Sandy,Yes,38.6,517.3,59,Bangalore,3259.25,Yes
+West Bengal,Maize,2017,Kharif,7023.11,29258.12,4.17,None,Drip,Clay,No,36.1,1387.2,73,Amritsar,4443.72,Yes
+Tamil Nadu,Rice,2018,Rabi,4517.01,16025.68,3.55,DAP,Canal,Red,Yes,23.3,1541,48,Lucknow,4286.59,Yes
+Maharashtra,Rice,2020,Rabi,41304.2,161576.89,3.91,Compost,Sprinkler,Sandy,Yes,25,527.3,17,Ludhiana,1489.15,No
+Maharashtra,Sugarcane,2021,Zaid,38991.96,90236.29,2.31,DAP,Rainfed,Black,No,26.8,245.6,97,Bangalore,4394.35,Yes
+Tamil Nadu,Rice,2018,Rabi,36364.36,84170.44,2.31,Compost,Drip,Loamy,Yes,23.4,1640,24,Bangalore,2656.27,Yes
+Punjab,Wheat,2017,Rabi,39367.82,143500.28,3.65,DAP,Canal,Sandy,Yes,31.6,1955.4,82,Amritsar,2014.79,No
+Maharashtra,Wheat,2018,Kharif,17678.17,76393.48,4.32,Compost,Canal,Red,No,39.5,1324.9,36,Ludhiana,4479.07,Yes
+Karnataka,Cotton,2020,Zaid,41509.02,78443.32,1.89,MOP,Rainfed,Sandy,Yes,35.2,627.9,64,Ludhiana,2728.1,No
+Punjab,Maize,2018,Rabi,44701.74,125229.79,2.8,Urea,Canal,Clay,No,28.5,1993.7,54,Bangalore,4233.46,Yes
+Punjab,Sugarcane,2019,Kharif,6685.11,10875.84,1.63,MOP,Drip,Sandy,Yes,20.1,1797.2,31,Amritsar,2053.61,Yes
+West Bengal,Wheat,2020,Zaid,42368.19,149455.62,3.53,Urea,Canal,Black,No,26.3,1075.4,29,Mumbai,1015.72,Yes
+Tamil Nadu,Cotton,2021,Zaid,33652.89,148010.21,4.4,MOP,Sprinkler,Sandy,No,30.5,1668.1,56,Chennai,2981.84,Yes
+Bihar,Maize,2017,Zaid,47255.13,109013.05,2.31,MOP,Sprinkler,Loamy,Yes,26.5,1650.1,72,Kolkata,1400.91,Yes
+Bihar,Maize,2019,Kharif,3361.11,8672.17,2.58,DAP,Drip,Sandy,No,22.2,1876.1,25,Amritsar,4017.5,No
+Karnataka,Sugarcane,2017,Zaid,23427.28,49821.58,2.13,None,Sprinkler,Clay,Yes,28.9,1697.8,22,Amritsar,2104.3,Yes
+Maharashtra,Maize,2020,Kharif,3565.4,13558.16,3.8,Compost,Rainfed,Sandy,Yes,25.1,1323,43,Bangalore,2774.58,Yes
+Haryana,Cotton,2021,Zaid,36263.04,94772.91,2.61,Compost,Canal,Black,No,38.2,1257.7,19,Amritsar,1348.13,Yes
+Maharashtra,Maize,2017,Kharif,37947.13,61012,1.61,Compost,Drip,Red,Yes,22,988,57,Lucknow,2146.64,Yes
+Punjab,Sugarcane,2018,Zaid,16465.74,56551.55,3.43,Urea,Rainfed,Sandy,No,21,1290.3,42,Patna,4125.96,Yes
+West Bengal,Sugarcane,2017,Kharif,15083.07,39266.63,2.6,Compost,Canal,Sandy,Yes,20.1,1610.9,52,Patna,1606.35,Yes
+Punjab,Wheat,2018,Kharif,14112.04,56539.05,4.01,Compost,Rainfed,Loamy,Yes,26.6,1941.2,56,Mumbai,3588.64,Yes
+Maharashtra,Cotton,2021,Rabi,17529.93,27311.33,1.56,DAP,Drip,Black,No,33.2,987.8,92,Ludhiana,4669.7,No
+Bihar,Rice,2019,Kharif,37073.82,92340.81,2.49,MOP,Drip,Red,Yes,34.6,1189.9,76,Amritsar,3719.35,No
+Bihar,Sugarcane,2021,Zaid,44004.7,71506.34,1.62,Compost,Rainfed,Clay,Yes,29.1,945.1,32,Ludhiana,4244.09,Yes
+Haryana,Wheat,2020,Zaid,38925.58,148647.62,3.82,None,Canal,Sandy,Yes,33.7,1370.1,89,Lucknow,1435.89,No
+Karnataka,Sugarcane,2018,Zaid,29192.41,50478.2,1.73,Compost,Sprinkler,Red,Yes,27.2,1296.8,20,Bangalore,2002.93,Yes
+Tamil Nadu,Wheat,2018,Kharif,14013.56,21758.25,1.55,Urea,Sprinkler,Clay,Yes,33.4,133.9,20,Bangalore,4578.16,No
+West Bengal,Wheat,2017,Zaid,26380.07,67118.46,2.54,Urea,Rainfed,Black,Yes,20.8,1128.2,39,Kolkata,3860.42,Yes
+Maharashtra,Sugarcane,2019,Kharif,32676.48,144514.46,4.42,Urea,Drip,Black,Yes,27.8,268.1,21,Chennai,3558.22,Yes
+Tamil Nadu,Maize,2017,Zaid,41658.39,138240.85,3.32,Compost,Canal,Red,Yes,35.8,150.1,77,Mumbai,3655.07,No
+Karnataka,Cotton,2019,Zaid,35796.64,154359.96,4.31,DAP,Canal,Clay,No,36.1,1603.3,56,Lucknow,2656.8,Yes
+Haryana,Sugarcane,2021,Zaid,3926.11,13799.99,3.51,None,Drip,Black,Yes,34.3,591.4,97,Ludhiana,1178.23,No
+Bihar,Rice,2017,Zaid,39474.29,176607.33,4.47,Compost,Sprinkler,Red,Yes,24.1,747.2,86,Lucknow,4137.77,Yes
+Haryana,Maize,2020,Rabi,18918.36,41169.07,2.18,DAP,Canal,Black,No,24.9,221.8,16,Kolkata,3714.85,Yes
+Bihar,Rice,2017,Rabi,42512.53,103961.89,2.45,DAP,Rainfed,Black,No,39.9,441.1,87,Kolkata,2891.22,Yes
+Uttar Pradesh,Maize,2021,Kharif,26835.99,113228.1,4.22,Compost,Sprinkler,Black,No,22.1,1554.6,52,Bangalore,4599.04,Yes
+Tamil Nadu,Sugarcane,2019,Zaid,40683.15,176653.79,4.34,Compost,Rainfed,Loamy,Yes,23.6,1037.7,26,Ludhiana,2344.64,No
+Maharashtra,Sugarcane,2017,Zaid,3970.82,14175.82,3.57,DAP,Sprinkler,Clay,No,22.6,1773.3,53,Chennai,2177.29,Yes
+Haryana,Wheat,2018,Kharif,25368.31,55575.7,2.19,DAP,Drip,Red,No,26.6,854.8,56,Bangalore,4491.19,No
+Karnataka,Wheat,2018,Rabi,26953.33,59989.48,2.23,DAP,Rainfed,Red,Yes,24.2,610.5,83,Chennai,4187.95,No
+West Bengal,Rice,2021,Rabi,4735.72,11006.34,2.32,Compost,Rainfed,Clay,Yes,30,760.4,5,Patna,3059.92,Yes
+Maharashtra,Rice,2018,Rabi,22207.98,36236.76,1.63,DAP,Drip,Clay,No,29.5,1454.3,70,Lucknow,1522.94,Yes
+Maharashtra,Cotton,2020,Kharif,3448.97,13902.62,4.03,Urea,Rainfed,Clay,No,38,1154.5,68,Kolkata,1860.29,No
+Karnataka,Maize,2021,Rabi,42835.46,95348.8,2.23,Compost,Sprinkler,Clay,Yes,20.7,1818,12,Patna,3624.91,No
+Maharashtra,Wheat,2020,Zaid,25413.56,69125.45,2.72,Urea,Canal,Sandy,Yes,26.4,1244.1,90,Ludhiana,2540.16,Yes
+Uttar Pradesh,Rice,2017,Zaid,23489.21,100020.87,4.26,MOP,Canal,Red,Yes,31.9,1036.7,29,Bangalore,4345.89,No
+Tamil Nadu,Rice,2018,Rabi,10315.27,40000.4,3.88,Compost,Drip,Sandy,Yes,32.1,1592.9,70,Mumbai,4799.82,No
+Uttar Pradesh,Cotton,2018,Kharif,48046.64,147233.11,3.06,MOP,Sprinkler,Black,Yes,29.6,1900.3,77,Amritsar,4222.55,No
+Haryana,Rice,2021,Rabi,24368.11,89065.28,3.65,DAP,Rainfed,Black,No,36.3,776.1,77,Mumbai,2510.18,Yes
+Tamil Nadu,Wheat,2019,Zaid,39286.09,172092.85,4.38,DAP,Rainfed,Red,Yes,21.3,574.8,81,Mumbai,4154.75,No
+Haryana,Cotton,2020,Kharif,41934.98,161586.49,3.85,None,Canal,Black,Yes,36.3,1270.8,74,Amritsar,2405.77,No
+Bihar,Sugarcane,2018,Zaid,32083.82,69500.86,2.17,DAP,Rainfed,Clay,Yes,29.9,1047.9,98,Lucknow,1668.4,No
+Bihar,Rice,2019,Rabi,22006.4,34935.36,1.59,MOP,Canal,Sandy,Yes,22.7,1979.5,83,Patna,1133.57,No
+Uttar Pradesh,Sugarcane,2021,Kharif,6806.63,16108.94,2.37,DAP,Drip,Clay,Yes,37.7,978.5,55,Patna,2542.87,Yes
+Karnataka,Maize,2018,Zaid,25239.08,76680.38,3.04,Compost,Rainfed,Black,No,33,241.2,57,Lucknow,4614.24,Yes
+Tamil Nadu,Wheat,2019,Kharif,2598.28,4347.21,1.67,DAP,Sprinkler,Sandy,Yes,23.3,1957,19,Amritsar,1955.95,No
+Tamil Nadu,Maize,2018,Rabi,31479.94,140945.98,4.48,None,Rainfed,Clay,No,20.7,1702.8,54,Chennai,1826.05,No
+West Bengal,Sugarcane,2021,Zaid,21364.59,86351.72,4.04,DAP,Canal,Red,Yes,22.8,438.7,75,Mumbai,4879.28,No
+Punjab,Rice,2018,Kharif,48744.24,77140.57,1.58,MOP,Drip,Clay,No,32.2,1818.7,79,Bangalore,1100.02,Yes
+Uttar Pradesh,Maize,2017,Kharif,12206.03,53327.66,4.37,MOP,Canal,Black,No,23.6,747.3,42,Patna,4143.13,Yes
+Maharashtra,Rice,2021,Kharif,47572.5,154366.43,3.24,DAP,Rainfed,Sandy,Yes,24.5,816.5,44,Lucknow,2285.48,No
+Uttar Pradesh,Maize,2021,Zaid,16990.58,68284.78,4.02,MOP,Canal,Red,Yes,20.5,1822.1,70,Bangalore,1149.95,No
+West Bengal,Sugarcane,2018,Kharif,21552.95,82786.96,3.84,MOP,Canal,Sandy,Yes,34.5,1107.2,43,Kolkata,4671.21,Yes
+Haryana,Sugarcane,2018,Kharif,29965.38,61680.97,2.06,None,Drip,Red,Yes,36.2,361.7,78,Amritsar,1558.57,No
+Uttar Pradesh,Sugarcane,2017,Zaid,4381.37,18937.83,4.32,Compost,Sprinkler,Sandy,Yes,35.9,801.2,21,Bangalore,3207.12,No
+West Bengal,Wheat,2019,Zaid,40733.05,163236.79,4.01,None,Rainfed,Black,No,22.6,1472,11,Ludhiana,2096.22,Yes
+West Bengal,Sugarcane,2018,Kharif,38785.02,134349.45,3.46,Urea,Drip,Red,Yes,38.1,430.9,43,Bangalore,1260.77,Yes
+Uttar Pradesh,Rice,2017,Kharif,27415.63,64355.92,2.35,None,Sprinkler,Loamy,Yes,33.4,1221.4,72,Ludhiana,1199.69,Yes
+Tamil Nadu,Cotton,2021,Zaid,7265.47,27584.38,3.8,DAP,Canal,Sandy,No,38,1421,39,Mumbai,1462.23,Yes
+Punjab,Cotton,2017,Rabi,18746.64,68788.64,3.67,Compost,Sprinkler,Sandy,Yes,28.9,753.3,55,Amritsar,1285.47,Yes
+Karnataka,Cotton,2021,Zaid,44253.98,73271.44,1.66,DAP,Canal,Clay,No,28.7,1418.4,51,Bangalore,4042.23,No
+Bihar,Sugarcane,2020,Rabi,36854.51,126112.7,3.42,Urea,Canal,Red,Yes,35.7,1780,40,Patna,2942.26,Yes
+Punjab,Cotton,2021,Zaid,30871.92,129295.38,4.19,Compost,Drip,Loamy,No,21.9,997,68,Amritsar,2371.57,Yes
+West Bengal,Wheat,2019,Zaid,9899.08,25864.54,2.61,MOP,Canal,Black,Yes,30.4,827.5,99,Patna,2673.48,Yes
+Uttar Pradesh,Sugarcane,2021,Rabi,29941.25,104286.65,3.48,None,Drip,Clay,No,36.7,577.2,93,Lucknow,4715.79,Yes
+Uttar Pradesh,Rice,2018,Zaid,14181.96,43294.53,3.05,DAP,Sprinkler,Loamy,No,36.6,1248,17,Lucknow,4643.01,Yes
+Punjab,Maize,2018,Rabi,14000.98,46268.5,3.3,Urea,Sprinkler,Red,Yes,39.1,1771.7,22,Kolkata,3862.71,Yes
+Bihar,Wheat,2019,Kharif,28444.49,109289.29,3.84,MOP,Canal,Loamy,Yes,34,716.9,25,Chennai,4538.73,No
+Tamil Nadu,Wheat,2019,Kharif,46713.32,186036.68,3.98,None,Drip,Sandy,Yes,24.2,852.8,69,Lucknow,2278.59,Yes
+Karnataka,Maize,2017,Zaid,35035.18,129172.72,3.69,MOP,Canal,Sandy,No,20.4,872.6,12,Bangalore,2524.44,No
+Maharashtra,Wheat,2017,Rabi,40546.47,84568.66,2.09,None,Drip,Clay,No,29.6,1165.5,52,Amritsar,3454.85,No
+West Bengal,Sugarcane,2020,Kharif,42970.32,154843.96,3.6,Compost,Drip,Red,No,30.3,534,89,Lucknow,3494.5,Yes
+Bihar,Cotton,2017,Kharif,19645.37,39076.72,1.99,MOP,Drip,Red,Yes,24.8,1662.2,47,Patna,2926.8,Yes
+Karnataka,Sugarcane,2018,Kharif,2234.48,8975.89,4.02,MOP,Sprinkler,Loamy,Yes,22.5,661.6,57,Bangalore,2602.63,No
+Karnataka,Rice,2017,Rabi,42320.63,75861.55,1.79,MOP,Drip,Clay,No,31.7,1440.2,89,Lucknow,4944.72,No
+Karnataka,Maize,2021,Zaid,35603.47,110473,3.1,Compost,Sprinkler,Red,Yes,35.3,1075.1,31,Ludhiana,4284.49,No
+Karnataka,Maize,2021,Kharif,16132.89,47540.29,2.95,Urea,Drip,Sandy,No,39.9,1213.2,23,Ludhiana,2739.92,Yes
+Karnataka,Cotton,2019,Zaid,20431.13,38719.96,1.9,None,Sprinkler,Loamy,Yes,35.2,441.3,27,Mumbai,3909.17,No
+Haryana,Wheat,2020,Zaid,16179.61,38347.89,2.37,MOP,Rainfed,Black,Yes,35.9,1496.5,54,Patna,2078.25,Yes
+Karnataka,Maize,2017,Kharif,4473.69,10909.49,2.44,Compost,Sprinkler,Sandy,No,32.3,458.4,55,Kolkata,1400.68,Yes
+Tamil Nadu,Maize,2018,Zaid,45398.27,69753.09,1.54,Urea,Sprinkler,Clay,Yes,39.7,315.6,47,Kolkata,2409.72,No
+Karnataka,Sugarcane,2017,Kharif,1969.99,5263.9,2.67,None,Canal,Red,Yes,32.8,1138.7,55,Kolkata,2611.89,Yes
+West Bengal,Maize,2020,Kharif,46814.73,130688.97,2.79,Compost,Drip,Sandy,Yes,37.2,1447.7,73,Patna,1066.15,Yes
+Bihar,Cotton,2019,Kharif,15002.16,41980.55,2.8,None,Rainfed,Black,Yes,38.9,195.1,45,Kolkata,4259.17,No
+Uttar Pradesh,Cotton,2019,Rabi,11064.67,29258.56,2.64,MOP,Canal,Black,Yes,38.6,231.9,76,Chennai,2436.77,No
+Punjab,Cotton,2020,Rabi,36940.85,68287.85,1.85,Urea,Drip,Clay,No,27.6,1625.1,15,Mumbai,3321.67,Yes
+Tamil Nadu,Maize,2021,Kharif,16937.44,73234.4,4.32,Compost,Rainfed,Sandy,Yes,21.6,1637.2,84,Chennai,1295.85,No
+Punjab,Wheat,2018,Rabi,26416.35,53839.01,2.04,Urea,Rainfed,Loamy,No,23.4,566.1,92,Ludhiana,1699.99,Yes
+Maharashtra,Rice,2021,Rabi,28219.28,58398.27,2.07,MOP,Rainfed,Sandy,Yes,21.2,1268.9,89,Lucknow,4558.77,No
+Bihar,Wheat,2017,Zaid,26465.51,45576.96,1.72,Urea,Drip,Black,Yes,22.1,942,56,Mumbai,3434.75,No
+Uttar Pradesh,Rice,2018,Kharif,37267.91,126416.53,3.39,Urea,Rainfed,Clay,No,23.7,1302.1,27,Patna,4801.14,No
+Karnataka,Rice,2018,Zaid,30172.62,60838.01,2.02,DAP,Rainfed,Clay,No,26.8,1739.5,53,Chennai,4995,No
+Tamil Nadu,Sugarcane,2019,Kharif,5511.28,18171.43,3.3,Urea,Canal,Loamy,Yes,30.9,251.7,42,Bangalore,2487.44,Yes
+Bihar,Maize,2018,Rabi,32439.96,117152.92,3.61,None,Sprinkler,Clay,Yes,34.2,1578.2,51,Mumbai,2195.21,No
+Maharashtra,Maize,2018,Kharif,35624.86,118631.58,3.33,Compost,Drip,Clay,No,24.2,1036.8,76,Patna,4433.42,Yes
+Punjab,Maize,2020,Zaid,30285.75,124119.69,4.1,DAP,Sprinkler,Clay,No,33.5,1171.8,11,Amritsar,4994.45,Yes
+Punjab,Maize,2018,Kharif,8586.6,37216.12,4.33,Compost,Canal,Clay,No,34.1,1342.5,70,Mumbai,3518.56,No
+Maharashtra,Maize,2021,Zaid,38842.75,131118.14,3.38,Compost,Sprinkler,Clay,No,31.2,1853,98,Mumbai,4180.56,No
+Maharashtra,Wheat,2021,Kharif,1754.35,5699.49,3.25,MOP,Rainfed,Black,Yes,38.1,207.8,81,Lucknow,4126.98,No
+Punjab,Wheat,2020,Zaid,47921.47,129249.28,2.7,MOP,Rainfed,Sandy,Yes,22.2,156,66,Bangalore,2421.36,No
+West Bengal,Rice,2017,Rabi,1407.68,3942.56,2.8,DAP,Drip,Red,Yes,23.5,438.7,91,Lucknow,3297.08,No
+Uttar Pradesh,Sugarcane,2019,Kharif,45812.88,128370.57,2.8,MOP,Drip,Clay,Yes,28.6,1974.3,33,Kolkata,4332.23,Yes
+Tamil Nadu,Sugarcane,2021,Zaid,36448.94,55663.45,1.53,MOP,Drip,Red,Yes,22.5,1458.6,42,Mumbai,3752.46,No
+Karnataka,Sugarcane,2017,Zaid,32246.72,71783.33,2.23,MOP,Canal,Red,No,31.3,1267.8,88,Ludhiana,1084.66,Yes
+Bihar,Cotton,2017,Kharif,43996.03,163496.7,3.72,Compost,Drip,Black,No,28,189.4,37,Mumbai,2346.82,Yes
+Tamil Nadu,Wheat,2017,Rabi,14269.51,32001.93,2.24,DAP,Canal,Clay,No,25.7,1770.3,33,Kolkata,1577.9,Yes
+Karnataka,Maize,2021,Rabi,36903.94,122528.28,3.32,Compost,Rainfed,Red,Yes,23.4,1644.2,83,Bangalore,1931.89,Yes
+Uttar Pradesh,Rice,2018,Rabi,40449.43,160541.82,3.97,None,Sprinkler,Clay,No,26.7,1363.1,27,Bangalore,4621.96,No
+Uttar Pradesh,Cotton,2019,Rabi,26166.94,59139.16,2.26,Compost,Rainfed,Loamy,Yes,32.2,744.3,7,Ludhiana,1147.57,No
+Uttar Pradesh,Maize,2018,Kharif,46117.56,150036.41,3.25,None,Rainfed,Loamy,Yes,31.5,234,97,Ludhiana,1879.2,Yes
+Punjab,Wheat,2020,Kharif,44871.96,157024.45,3.5,Urea,Rainfed,Loamy,Yes,23.3,1202.1,49,Chennai,2238.28,Yes
+Karnataka,Maize,2021,Rabi,31882.11,71580.15,2.25,Urea,Drip,Red,No,22.5,1467.4,12,Patna,3467.54,No
+Bihar,Rice,2020,Rabi,32816.79,141402.36,4.31,None,Drip,Loamy,Yes,20.5,279.1,90,Patna,3136.41,Yes
+Bihar,Rice,2018,Zaid,15326.77,43401.71,2.83,None,Drip,Black,Yes,20.2,1304.2,33,Chennai,1873.08,No
+Punjab,Cotton,2020,Rabi,25628.93,42762.59,1.67,Compost,Sprinkler,Black,No,37.6,644.1,6,Patna,1656.96,Yes
+Maharashtra,Sugarcane,2020,Zaid,14770.87,53749.42,3.64,None,Drip,Red,Yes,20.9,1552.1,54,Mumbai,1947.19,No
+Maharashtra,Rice,2017,Kharif,46277.32,84948.59,1.84,DAP,Canal,Clay,No,34.6,1125.3,69,Chennai,3010.12,Yes
+West Bengal,Cotton,2017,Rabi,47184.03,176483.84,3.74,Urea,Rainfed,Sandy,Yes,37.4,345.2,24,Chennai,2084.71,Yes
+Uttar Pradesh,Cotton,2020,Zaid,6411.16,15178.82,2.37,Urea,Sprinkler,Clay,No,22,1100.4,56,Patna,4790.41,Yes
+Bihar,Sugarcane,2020,Zaid,26235.28,81504.13,3.11,None,Sprinkler,Clay,Yes,28.7,851.9,89,Amritsar,2855.46,No
+West Bengal,Cotton,2018,Kharif,41577.72,89316.44,2.15,MOP,Sprinkler,Clay,Yes,39.2,442.7,41,Ludhiana,1235.18,No
+Tamil Nadu,Cotton,2020,Rabi,18366.82,55410.9,3.02,MOP,Sprinkler,Clay,No,36.7,1698.9,76,Patna,3917.07,No
+Tamil Nadu,Wheat,2017,Kharif,45274.36,78456.95,1.73,None,Sprinkler,Sandy,Yes,29.8,121,31,Lucknow,2315.38,Yes
+West Bengal,Maize,2017,Rabi,39929.8,165833.64,4.15,DAP,Canal,Loamy,No,35.3,693,51,Amritsar,3613.96,Yes
+Bihar,Maize,2017,Zaid,30916.79,61249.14,1.98,MOP,Rainfed,Clay,Yes,36.7,123.9,10,Chennai,2118.38,Yes
+West Bengal,Cotton,2020,Zaid,24979.45,69663.33,2.79,None,Sprinkler,Black,No,27,282.4,64,Amritsar,3282.97,Yes
+Tamil Nadu,Cotton,2018,Kharif,36887.65,112315.52,3.04,DAP,Rainfed,Red,Yes,37.8,664.5,49,Mumbai,4088.61,Yes
+Maharashtra,Wheat,2017,Rabi,9121.66,38060.73,4.17,DAP,Drip,Red,Yes,29.4,203.1,48,Bangalore,4712.03,Yes
+Maharashtra,Rice,2018,Zaid,6161.93,13353.42,2.17,Compost,Sprinkler,Black,Yes,30.6,1233.6,87,Amritsar,2044.51,No
+Punjab,Rice,2020,Zaid,13022.26,21788.8,1.67,DAP,Sprinkler,Clay,No,40,265,22,Lucknow,2339.43,No
+Maharashtra,Maize,2020,Zaid,28287.04,77713.7,2.75,MOP,Rainfed,Sandy,No,36.9,1433.3,69,Bangalore,2857.07,No
+Maharashtra,Wheat,2019,Zaid,35125.06,126676.36,3.61,MOP,Sprinkler,Loamy,No,27.2,200,29,Mumbai,4708.7,Yes
+Punjab,Cotton,2018,Rabi,21185.95,87107.75,4.11,None,Sprinkler,Red,No,20.2,212.7,31,Lucknow,4605.55,No
+Haryana,Cotton,2021,Kharif,25289.48,108729.13,4.3,None,Sprinkler,Loamy,No,32.5,680.1,11,Kolkata,1359.51,Yes
+Tamil Nadu,Rice,2017,Zaid,6600,25043.06,3.79,DAP,Canal,Sandy,Yes,34.1,1803.5,48,Bangalore,1527.72,Yes
+Uttar Pradesh,Rice,2017,Zaid,21544.31,33487.87,1.55,Urea,Canal,Red,Yes,33,1318.6,33,Kolkata,2982.04,No
+Punjab,Maize,2017,Zaid,24238.5,77127.75,3.18,Compost,Sprinkler,Loamy,Yes,39.4,1563.2,99,Mumbai,1426.48,Yes
+West Bengal,Maize,2018,Kharif,36834.51,132303.16,3.59,Urea,Canal,Sandy,Yes,37.3,368.9,48,Bangalore,2382.32,Yes
+Karnataka,Wheat,2021,Kharif,43834.36,92504.06,2.11,DAP,Drip,Loamy,Yes,29,1684.8,40,Bangalore,1593.54,Yes
+Bihar,Maize,2017,Zaid,23113.41,47390.04,2.05,DAP,Sprinkler,Clay,No,21.3,115.5,23,Patna,3544.16,Yes
+Haryana,Wheat,2021,Zaid,23849.18,41189.9,1.73,Urea,Drip,Sandy,Yes,29.5,504.8,10,Lucknow,4797.98,Yes
+Maharashtra,Wheat,2018,Zaid,14763.22,31355.15,2.12,Compost,Rainfed,Loamy,No,33.8,1270.6,29,Ludhiana,4986.94,No
+Karnataka,Sugarcane,2017,Zaid,4261.67,14681.26,3.44,Urea,Drip,Clay,Yes,32.2,813,35,Lucknow,2500.96,No
+West Bengal,Rice,2018,Kharif,40386.91,113100.18,2.8,None,Rainfed,Clay,No,30.8,1970,13,Amritsar,3396.05,Yes
+Karnataka,Cotton,2019,Rabi,16736.95,36157.4,2.16,MOP,Sprinkler,Sandy,No,29.4,157.6,88,Kolkata,4425.07,Yes
+Maharashtra,Maize,2020,Zaid,19104.61,31254.34,1.64,None,Rainfed,Black,No,25.9,1997.3,78,Kolkata,1469.85,No
+Tamil Nadu,Maize,2019,Rabi,11665.7,40655.58,3.49,MOP,Rainfed,Red,Yes,25.5,1284.9,41,Lucknow,3758.26,No
+Punjab,Wheat,2020,Zaid,40420.24,154341.81,3.82,DAP,Drip,Sandy,Yes,30,1161.5,31,Lucknow,2635.37,No
+Tamil Nadu,Wheat,2020,Kharif,29601.97,113845.62,3.85,Compost,Drip,Clay,Yes,23.2,213.1,17,Bangalore,1824.58,Yes
+West Bengal,Rice,2020,Kharif,1716.78,3642.54,2.12,Urea,Drip,Clay,Yes,26.8,619.3,45,Kolkata,2611.01,No
+Bihar,Cotton,2019,Zaid,33461.71,85022.46,2.54,Compost,Sprinkler,Sandy,No,26.5,1856.9,70,Chennai,1303.84,No
+Maharashtra,Cotton,2018,Kharif,13653.32,45277.62,3.32,Urea,Sprinkler,Black,No,31.7,773.1,89,Ludhiana,3781.63,Yes
+West Bengal,Rice,2020,Rabi,29361.53,99746.23,3.4,None,Drip,Red,No,21.3,1357.1,28,Patna,2010.97,Yes
+Haryana,Sugarcane,2018,Kharif,36103.46,83501.1,2.31,None,Sprinkler,Loamy,No,36.6,1999,48,Ludhiana,2245.62,No
+Karnataka,Maize,2017,Kharif,11530.72,31992.59,2.77,Urea,Sprinkler,Sandy,Yes,31.2,599.8,64,Amritsar,1484.33,Yes
+Bihar,Rice,2020,Zaid,10208.1,17669.35,1.73,Compost,Rainfed,Red,No,33.4,1194.6,13,Ludhiana,4458.64,No
+Haryana,Rice,2020,Zaid,41269.72,143558.05,3.48,Urea,Rainfed,Red,Yes,34.1,1423.2,6,Patna,2973.78,No
+Karnataka,Wheat,2017,Zaid,32201.32,120584.23,3.74,DAP,Drip,Clay,No,25.8,412.8,60,Amritsar,3288.59,Yes
+West Bengal,Wheat,2021,Kharif,35037.41,75545.8,2.16,None,Sprinkler,Loamy,No,29.4,382.5,34,Mumbai,3277.73,Yes
+Bihar,Rice,2021,Zaid,41260.75,119019.47,2.88,DAP,Rainfed,Sandy,No,39.1,967,26,Bangalore,2641.97,No
+Tamil Nadu,Sugarcane,2018,Kharif,37644.09,73474.65,1.95,None,Canal,Clay,Yes,35.3,833,79,Lucknow,1770.12,Yes
+Karnataka,Wheat,2021,Zaid,13936.21,38264.97,2.75,None,Sprinkler,Clay,Yes,39.4,1457,85,Lucknow,3980.53,Yes
+Karnataka,Maize,2021,Rabi,33675.52,83147.62,2.47,MOP,Canal,Black,No,34.9,232.1,17,Chennai,1508.23,Yes
+Karnataka,Maize,2021,Zaid,49811.73,198063.74,3.98,DAP,Drip,Red,No,23.5,1947.1,75,Ludhiana,1415.5,Yes
+Haryana,Maize,2017,Rabi,35635.05,156858.03,4.4,DAP,Sprinkler,Sandy,No,21.3,127.1,20,Kolkata,3840.58,Yes
+Uttar Pradesh,Sugarcane,2020,Zaid,46744.98,182494.46,3.9,MOP,Drip,Sandy,Yes,31.6,1242.5,49,Kolkata,1835.35,Yes
+West Bengal,Rice,2019,Kharif,23825.46,76562.8,3.21,Compost,Drip,Sandy,Yes,27.2,1169,69,Patna,2227.09,Yes
+Karnataka,Cotton,2021,Kharif,48096.81,200810.56,4.18,DAP,Drip,Clay,Yes,25.5,356,15,Patna,2900.91,No
+West Bengal,Maize,2019,Rabi,16326.12,56537.78,3.46,Urea,Drip,Black,No,36.1,386.7,74,Patna,2797.41,Yes
+Uttar Pradesh,Rice,2017,Zaid,42018.86,141123.64,3.36,MOP,Drip,Loamy,Yes,27.3,1606.1,24,Kolkata,3834.32,No
+Uttar Pradesh,Maize,2021,Kharif,20714.41,55344.36,2.67,DAP,Sprinkler,Clay,No,26.3,1786.4,67,Lucknow,3493.73,Yes
+Bihar,Cotton,2021,Zaid,36917.18,130257.7,3.53,Compost,Canal,Loamy,Yes,37,637.7,94,Kolkata,3577.58,No
+West Bengal,Maize,2017,Zaid,43552.13,114863.65,2.64,DAP,Sprinkler,Black,No,36.9,932.1,16,Patna,3856.22,Yes
+Haryana,Sugarcane,2021,Zaid,11370.16,51016.7,4.49,None,Sprinkler,Red,No,27.1,774.5,66,Bangalore,2170.45,No
+Bihar,Rice,2020,Rabi,40416.29,147329.52,3.65,Urea,Sprinkler,Sandy,Yes,36.6,237.8,98,Amritsar,2289.33,Yes
+Punjab,Maize,2019,Kharif,34064.53,120336.18,3.53,MOP,Rainfed,Loamy,No,37,1379.1,96,Lucknow,2751.99,No
+Haryana,Maize,2021,Kharif,3665.15,12581.62,3.43,None,Rainfed,Clay,No,28.5,1667.9,95,Bangalore,2229.85,Yes
+Punjab,Wheat,2018,Rabi,8654.12,29491.69,3.41,Compost,Sprinkler,Loamy,No,21.3,679.3,46,Mumbai,4939.75,Yes
+Bihar,Wheat,2020,Rabi,23303.43,81638.48,3.5,None,Canal,Red,Yes,20,1981.3,87,Ludhiana,4256.21,No
+West Bengal,Rice,2020,Rabi,39176.03,130420.62,3.33,None,Sprinkler,Sandy,No,30.5,244.1,73,Bangalore,1658.62,No
+Uttar Pradesh,Sugarcane,2020,Rabi,45600.44,155821.1,3.42,Compost,Drip,Loamy,Yes,26.9,1357.4,62,Ludhiana,1022.38,Yes
+Haryana,Cotton,2021,Rabi,29057.75,67734.71,2.33,None,Rainfed,Red,Yes,39.9,951.6,9,Bangalore,1171.13,No
+Bihar,Rice,2019,Zaid,3547.48,5659.05,1.6,MOP,Rainfed,Clay,No,35.4,948.5,31,Mumbai,1976.25,No
+Karnataka,Rice,2017,Zaid,44262.83,153907.89,3.48,DAP,Sprinkler,Black,Yes,35.2,969.5,32,Bangalore,1457.17,Yes
+Tamil Nadu,Cotton,2019,Zaid,34489.24,90579.9,2.63,None,Sprinkler,Clay,No,39.1,591.5,30,Amritsar,3133.35,No
+Tamil Nadu,Wheat,2019,Zaid,2471.27,10359.81,4.19,MOP,Canal,Sandy,Yes,37.8,1459.6,95,Lucknow,4431.98,Yes
+Tamil Nadu,Wheat,2021,Rabi,7268.91,18481.36,2.54,DAP,Canal,Clay,No,26.4,1471,53,Ludhiana,3947,No
+West Bengal,Sugarcane,2017,Kharif,42774.82,184526.11,4.31,DAP,Drip,Clay,Yes,23.3,636.6,25,Chennai,1862.44,Yes
+Uttar Pradesh,Maize,2018,Rabi,21394.68,42882.52,2,None,Sprinkler,Clay,No,34.9,1687.1,5,Kolkata,2597.2,No
+Uttar Pradesh,Sugarcane,2018,Rabi,47176.79,81354.66,1.72,MOP,Sprinkler,Clay,No,27.6,702,96,Mumbai,3031.58,Yes
+Tamil Nadu,Cotton,2020,Zaid,49279.89,98464.45,2,None,Sprinkler,Sandy,No,29.5,1477.7,62,Ludhiana,4240.82,Yes
+Karnataka,Sugarcane,2019,Rabi,31898.47,68872.64,2.16,Compost,Rainfed,Red,No,32.6,329.9,83,Lucknow,4356.49,No
+Karnataka,Sugarcane,2018,Zaid,18914.19,48440.94,2.56,DAP,Drip,Loamy,Yes,38.2,420.5,59,Patna,4638.87,No
+West Bengal,Sugarcane,2021,Rabi,40642.16,78876.91,1.94,None,Canal,Black,Yes,28.4,700,85,Ludhiana,3036.98,Yes
+Karnataka,Rice,2019,Rabi,40386.44,77196.48,1.91,DAP,Rainfed,Loamy,No,35.7,1228.4,30,Amritsar,3777.1,Yes
+Maharashtra,Rice,2019,Rabi,43894.88,124013.55,2.83,MOP,Rainfed,Loamy,Yes,25.4,1326.5,88,Chennai,1447.2,No
+Tamil Nadu,Rice,2017,Zaid,3791.96,10449.97,2.76,Urea,Rainfed,Black,No,34,853.1,29,Amritsar,3261.16,No
+Punjab,Cotton,2017,Rabi,33693.4,129084.4,3.83,None,Rainfed,Sandy,No,20,247.9,81,Ludhiana,1994.77,No
+Tamil Nadu,Rice,2021,Kharif,38492.86,166337.56,4.32,None,Drip,Black,Yes,37.4,809.9,37,Amritsar,2726.87,No
+Haryana,Maize,2021,Rabi,24072.5,83487.4,3.47,DAP,Sprinkler,Sandy,Yes,20.6,1408.7,93,Patna,3536.2,No
+Bihar,Sugarcane,2019,Zaid,6733.57,26255.22,3.9,MOP,Canal,Loamy,No,34.3,1374.9,76,Chennai,2027.94,No
+Karnataka,Sugarcane,2019,Kharif,26178.69,110209.51,4.21,Compost,Canal,Sandy,Yes,20.9,404.4,73,Kolkata,1208.74,Yes
+West Bengal,Wheat,2017,Kharif,25997.27,96416.58,3.71,MOP,Rainfed,Red,No,25.3,114.8,10,Amritsar,1040.94,No
+Bihar,Rice,2020,Zaid,46683.82,173888.26,3.72,None,Rainfed,Black,Yes,29.9,1530.7,27,Patna,1088.64,No
+Uttar Pradesh,Sugarcane,2021,Rabi,42858.78,127388.94,2.97,Compost,Drip,Red,Yes,28.4,302.1,34,Mumbai,1033.4,No
+Maharashtra,Rice,2021,Rabi,48526.4,155953.24,3.21,MOP,Rainfed,Loamy,Yes,23.8,256.5,82,Patna,1441.42,No
+Punjab,Maize,2018,Zaid,44805.28,112570.62,2.51,Urea,Canal,Black,Yes,26.7,105.1,58,Bangalore,1957.95,Yes
+Uttar Pradesh,Cotton,2021,Rabi,49437.56,77899.36,1.58,DAP,Canal,Loamy,Yes,34.6,921.9,91,Ludhiana,1884.89,Yes
+Tamil Nadu,Cotton,2018,Zaid,29857.72,112116.59,3.76,MOP,Sprinkler,Red,No,33.4,1056.2,15,Lucknow,4947.19,Yes
+West Bengal,Rice,2018,Kharif,31739.12,119047.01,3.75,MOP,Sprinkler,Loamy,Yes,21.4,1311.6,35,Ludhiana,2224.02,Yes
+Maharashtra,Sugarcane,2017,Kharif,18209.75,32437.57,1.78,Urea,Canal,Black,Yes,34.9,662.5,10,Ludhiana,1509.68,No
+Haryana,Rice,2019,Kharif,47288.62,157462.81,3.33,None,Canal,Black,No,21.1,1449.8,15,Patna,3182.25,Yes
+Uttar Pradesh,Rice,2019,Kharif,23935.38,69386.23,2.9,DAP,Drip,Loamy,No,30.9,421.7,81,Patna,4431.83,No
+Punjab,Cotton,2018,Rabi,22069.28,72624.09,3.29,MOP,Drip,Black,No,25.2,1680.8,16,Patna,3712.24,No
+Tamil Nadu,Cotton,2018,Kharif,35697.97,104490.22,2.93,Compost,Canal,Black,Yes,31.8,1186.5,70,Ludhiana,2184.33,Yes
+Uttar Pradesh,Cotton,2021,Zaid,32683.42,71257.16,2.18,MOP,Rainfed,Loamy,Yes,25.2,1209.4,57,Kolkata,3246.46,Yes
+Tamil Nadu,Wheat,2020,Rabi,38904.08,72758.51,1.87,DAP,Sprinkler,Red,No,39.7,498.6,40,Amritsar,3859.42,No
+Karnataka,Sugarcane,2017,Kharif,22470.75,90277.16,4.02,MOP,Canal,Black,No,26.2,240.8,21,Kolkata,3912.42,Yes
+Punjab,Sugarcane,2019,Zaid,23002.9,50892.44,2.21,Urea,Rainfed,Black,No,24.8,983,32,Chennai,3666.15,Yes
+Tamil Nadu,Sugarcane,2017,Kharif,6468.06,21506.03,3.32,MOP,Canal,Black,No,25.6,1269.7,96,Patna,4483.24,No
+Karnataka,Maize,2020,Kharif,30927.77,64933.59,2.1,MOP,Sprinkler,Black,Yes,37.9,280.6,26,Patna,4480.42,No
+Uttar Pradesh,Maize,2019,Zaid,38865.8,85924.51,2.21,Compost,Sprinkler,Loamy,Yes,32.7,1906,11,Bangalore,3315.75,No
+West Bengal,Cotton,2021,Zaid,46440.4,120636.25,2.6,Urea,Drip,Red,Yes,34.6,1962.8,19,Bangalore,2719.43,No
+Maharashtra,Cotton,2021,Zaid,26712.05,102193.15,3.83,Urea,Drip,Red,Yes,38.4,1136.4,15,Mumbai,3566.28,No
+Uttar Pradesh,Maize,2019,Kharif,17278.07,41144.75,2.38,MOP,Drip,Sandy,Yes,38.2,1905.1,28,Mumbai,4272.85,Yes
+Karnataka,Maize,2020,Zaid,30961.72,109465.16,3.54,Compost,Drip,Black,No,34.8,440.9,71,Bangalore,1022.61,No
+Maharashtra,Sugarcane,2018,Rabi,47410.91,196971.72,4.15,MOP,Sprinkler,Black,Yes,24,148.3,34,Chennai,4967.99,No
+Bihar,Rice,2017,Zaid,17648.74,50596.42,2.87,MOP,Rainfed,Sandy,No,36.9,174.9,74,Mumbai,1731.58,No
+Haryana,Wheat,2017,Zaid,22346.59,86781.7,3.88,DAP,Rainfed,Red,No,24.1,1216.3,70,Lucknow,2881,Yes
+Bihar,Maize,2019,Kharif,5360.5,23988.71,4.48,DAP,Rainfed,Clay,No,34.9,217.1,65,Lucknow,4488.12,No
+Punjab,Sugarcane,2018,Rabi,4028.61,7159.17,1.78,Compost,Canal,Clay,Yes,33.7,1921.2,82,Chennai,1900.16,No
+Karnataka,Sugarcane,2021,Kharif,45748.4,94615.94,2.07,None,Drip,Red,No,35.2,369.7,45,Bangalore,2907.18,Yes
+Karnataka,Rice,2017,Rabi,32728.31,75900.94,2.32,DAP,Drip,Black,Yes,30.7,679,86,Mumbai,1530.33,No
+Uttar Pradesh,Maize,2021,Zaid,38095.36,63497.98,1.67,None,Sprinkler,Clay,No,32.8,1662.8,55,Patna,2580.31,No
+Tamil Nadu,Maize,2020,Kharif,33512.66,91609.95,2.73,Urea,Sprinkler,Loamy,Yes,39.1,515.6,48,Bangalore,1708.54,No
+Haryana,Rice,2020,Zaid,15458.55,37047.52,2.4,DAP,Canal,Loamy,No,22,561.6,99,Mumbai,2454.51,Yes
+Karnataka,Wheat,2017,Rabi,10046.99,25381.94,2.53,DAP,Canal,Sandy,Yes,26.2,1320.4,17,Chennai,2493.86,Yes
+Punjab,Sugarcane,2017,Rabi,9493.81,28077.49,2.96,Compost,Rainfed,Red,No,32.2,624.6,94,Lucknow,4972.68,No
+Bihar,Cotton,2018,Rabi,7717.38,28567.03,3.7,None,Sprinkler,Red,No,39.3,513.2,16,Ludhiana,4979.25,No
+Punjab,Cotton,2017,Rabi,27788.09,116911.14,4.21,DAP,Drip,Clay,No,21.9,582.9,86,Chennai,1459.15,No
+Karnataka,Sugarcane,2020,Zaid,46646.19,184856.19,3.96,DAP,Rainfed,Black,No,20.5,1032.2,13,Ludhiana,3903.88,Yes
+Maharashtra,Maize,2018,Rabi,17012.94,26071.19,1.53,Compost,Drip,Red,Yes,21.1,1935.6,89,Mumbai,1206.98,Yes
+Tamil Nadu,Maize,2021,Kharif,5838.12,10082.34,1.73,Compost,Rainfed,Clay,Yes,21,1681.3,52,Chennai,1120.77,Yes
+West Bengal,Maize,2021,Rabi,11520.1,19603.78,1.7,None,Drip,Clay,Yes,38.2,640.8,53,Mumbai,1421.34,Yes
+Karnataka,Rice,2017,Zaid,33277.16,103055.23,3.1,Urea,Canal,Red,No,34.4,790.4,57,Mumbai,4861.94,Yes
+Bihar,Rice,2021,Zaid,37659.88,119900.28,3.18,Urea,Rainfed,Clay,No,33.5,982.6,60,Ludhiana,4763.45,Yes
+West Bengal,Sugarcane,2018,Rabi,13723.87,60510.89,4.41,MOP,Drip,Sandy,No,30.5,1960,44,Chennai,1775.71,No
+West Bengal,Rice,2020,Kharif,34908.55,100319.74,2.87,DAP,Drip,Sandy,No,35.6,427.5,28,Amritsar,1646.69,Yes
+Karnataka,Cotton,2017,Kharif,7756.38,27661.48,3.57,None,Sprinkler,Red,No,23.1,779.2,76,Patna,1962.14,No
+Haryana,Cotton,2017,Rabi,24390.17,62254.87,2.55,DAP,Rainfed,Black,No,27.8,1485.9,37,Bangalore,3062.19,Yes
+Karnataka,Wheat,2017,Rabi,11243.91,19722.55,1.75,None,Drip,Sandy,Yes,29.8,1931.5,27,Lucknow,3278.82,No
+Punjab,Cotton,2019,Rabi,9950.95,19093.85,1.92,None,Sprinkler,Sandy,Yes,22.2,395.8,81,Patna,1886.37,Yes
+Tamil Nadu,Cotton,2019,Kharif,23497.08,56624.62,2.41,None,Drip,Red,Yes,28.4,532,58,Bangalore,4026.49,No
+Uttar Pradesh,Sugarcane,2021,Rabi,4751.84,13125.93,2.76,DAP,Rainfed,Loamy,Yes,26.3,528.8,57,Bangalore,2238.21,No
+Haryana,Rice,2021,Rabi,20979.66,41616.44,1.98,Compost,Canal,Clay,Yes,20.7,139.8,53,Lucknow,4688.53,No
+Karnataka,Rice,2018,Kharif,46476.99,187515.46,4.03,DAP,Rainfed,Sandy,Yes,22.7,1247.8,82,Patna,3626.89,Yes
+Tamil Nadu,Sugarcane,2019,Zaid,46985.63,163760.58,3.49,None,Rainfed,Loamy,Yes,35.3,1374.3,82,Lucknow,2745.4,Yes
+Punjab,Maize,2019,Zaid,20757.18,83048.07,4,MOP,Drip,Black,Yes,20.4,1244.8,84,Mumbai,4159.65,Yes
+Karnataka,Cotton,2021,Kharif,45063.76,197685,4.39,Urea,Drip,Loamy,No,38.7,235.5,53,Lucknow,4271.66,No
+Uttar Pradesh,Sugarcane,2021,Rabi,34115.32,118532.98,3.47,None,Rainfed,Red,No,21.7,231.5,64,Ludhiana,2161.93,No
+Karnataka,Sugarcane,2019,Rabi,8657.9,18703.37,2.16,MOP,Sprinkler,Black,No,36,499.7,94,Ludhiana,2358.86,No
+Karnataka,Cotton,2018,Zaid,5690.72,13959.81,2.45,Compost,Sprinkler,Black,No,38,651.6,94,Chennai,4743.82,Yes
+Tamil Nadu,Maize,2017,Zaid,11801.85,49078.53,4.16,None,Sprinkler,Loamy,No,38.8,1594.4,69,Amritsar,1658.96,Yes
+Karnataka,Sugarcane,2019,Zaid,32135.3,108921.38,3.39,MOP,Drip,Red,No,37.3,402.8,36,Amritsar,1168.6,No
+Uttar Pradesh,Rice,2018,Rabi,34194.47,95244.38,2.79,None,Drip,Sandy,No,25.8,183.8,83,Amritsar,2816.22,Yes
+Bihar,Rice,2019,Rabi,8175.38,32691.62,4,DAP,Rainfed,Loamy,Yes,26.7,848.6,25,Patna,4204.84,Yes
+Maharashtra,Rice,2021,Rabi,6273.1,23865.28,3.8,MOP,Canal,Sandy,Yes,28.5,891.1,22,Ludhiana,4086.67,Yes
+Maharashtra,Rice,2018,Zaid,24717.01,75196.22,3.04,DAP,Drip,Loamy,No,22.8,956.7,98,Patna,4678.12,Yes
+West Bengal,Rice,2020,Rabi,16935.35,27398.15,1.62,DAP,Rainfed,Sandy,Yes,20.4,1671.1,64,Mumbai,3132.8,No
+Uttar Pradesh,Rice,2019,Zaid,48939.38,215198.28,4.4,MOP,Rainfed,Loamy,Yes,37.4,286.2,17,Kolkata,1400.26,Yes
+Bihar,Wheat,2017,Zaid,17944.5,63044.04,3.51,Urea,Canal,Black,Yes,31.1,1437.5,28,Amritsar,3354.76,Yes
+Maharashtra,Maize,2017,Rabi,39381.6,90490.46,2.3,MOP,Sprinkler,Clay,Yes,32.2,742.1,34,Mumbai,4113.58,No
+Uttar Pradesh,Rice,2019,Kharif,30572.91,106348.42,3.48,Urea,Rainfed,Black,Yes,38.5,689,6,Ludhiana,1373.31,No
+Punjab,Rice,2017,Zaid,46987.96,96022.24,2.04,None,Rainfed,Sandy,No,33.3,1871.8,87,Kolkata,1690.63,Yes
+Uttar Pradesh,Cotton,2021,Zaid,25347.88,107749.43,4.25,None,Rainfed,Red,Yes,33.8,572.1,29,Amritsar,1049.16,Yes
+Punjab,Sugarcane,2018,Kharif,28705.58,81143.69,2.83,MOP,Sprinkler,Black,No,35.7,1320.8,54,Patna,3374.61,Yes
+Haryana,Rice,2017,Rabi,20262.09,36486.69,1.8,None,Sprinkler,Clay,No,22.3,622.7,18,Kolkata,4546.94,Yes
+Punjab,Wheat,2019,Rabi,4763.56,10503.57,2.2,Compost,Canal,Sandy,No,27.2,1063.6,10,Chennai,3682.65,No
+West Bengal,Cotton,2021,Zaid,7637.52,16759.97,2.19,DAP,Drip,Black,Yes,39.4,1594,80,Chennai,4928.16,No
+Karnataka,Rice,2020,Kharif,21561.74,35617.14,1.65,DAP,Sprinkler,Loamy,No,38.5,1775.3,88,Chennai,1252.13,No
+Uttar Pradesh,Wheat,2019,Rabi,43039.8,158966.3,3.69,Urea,Drip,Red,No,37.7,1693.5,91,Lucknow,4612,Yes
+Karnataka,Wheat,2020,Zaid,16015.21,25957.04,1.62,None,Drip,Sandy,No,29,1206.1,34,Chennai,4256.27,Yes
+Bihar,Sugarcane,2021,Zaid,1306.62,2202.51,1.69,Urea,Sprinkler,Black,No,37.1,572.8,34,Bangalore,2256.97,No
+Uttar Pradesh,Maize,2020,Kharif,41785.81,163672.78,3.92,DAP,Rainfed,Sandy,Yes,21,1356.3,42,Amritsar,4894.11,Yes
+West Bengal,Wheat,2020,Kharif,5291.97,9365.46,1.77,DAP,Canal,Loamy,No,23,1448.8,62,Chennai,2151.75,No
+Bihar,Sugarcane,2021,Zaid,43663.73,76436.62,1.75,None,Drip,Clay,No,28.3,120.3,98,Kolkata,4557.22,No
+Karnataka,Rice,2021,Kharif,22663.24,56730.7,2.5,Compost,Rainfed,Black,No,29.7,934.5,45,Ludhiana,4522.99,No
+Bihar,Sugarcane,2019,Kharif,29027.8,113681.49,3.92,Compost,Sprinkler,Sandy,No,25.3,1702.2,98,Bangalore,4030.63,No
+Uttar Pradesh,Sugarcane,2021,Kharif,14140.54,36528.18,2.58,None,Drip,Sandy,Yes,27.1,1030.2,61,Bangalore,3253.88,No
+Maharashtra,Rice,2021,Rabi,2698.96,7221.69,2.68,None,Drip,Sandy,No,23.3,691.6,40,Bangalore,1480.01,No
+Tamil Nadu,Rice,2021,Zaid,32433.72,73932.16,2.28,Urea,Drip,Clay,No,29.8,1756.4,68,Mumbai,3127.89,No
+Maharashtra,Sugarcane,2020,Zaid,15567.07,34091.59,2.19,None,Rainfed,Sandy,No,35.9,396.2,20,Kolkata,2427.19,Yes
+Uttar Pradesh,Sugarcane,2017,Kharif,27733.52,50385.56,1.82,Compost,Rainfed,Red,No,33.2,492.2,92,Mumbai,4168.87,No
+West Bengal,Sugarcane,2019,Kharif,5019.16,8054.84,1.6,None,Rainfed,Red,No,22.2,1406,82,Bangalore,4032.52,No
+Bihar,Rice,2021,Rabi,22781.88,68661.33,3.01,Urea,Drip,Sandy,No,29.8,769.6,94,Lucknow,4642.45,Yes
+Bihar,Maize,2018,Rabi,18238.45,69033.04,3.79,Urea,Drip,Red,Yes,34,1454.7,76,Chennai,1059.32,No
+West Bengal,Cotton,2019,Zaid,23916.38,80315.27,3.36,Urea,Canal,Black,No,30.6,399.6,18,Ludhiana,4236.41,Yes
+Bihar,Rice,2018,Rabi,17183.95,54863.12,3.19,Urea,Canal,Red,Yes,27.8,579.3,35,Amritsar,4753.85,No
+Karnataka,Cotton,2019,Kharif,7329.55,13183.22,1.8,MOP,Rainfed,Sandy,Yes,32.4,397.6,70,Kolkata,4157.2,Yes
+Tamil Nadu,Rice,2018,Zaid,24076.55,71668.59,2.98,None,Rainfed,Loamy,No,39.4,1910.5,72,Lucknow,1520.78,Yes
+Karnataka,Wheat,2020,Kharif,38502.8,86980.87,2.26,DAP,Sprinkler,Black,Yes,21.9,870.3,69,Patna,1325.12,Yes
+Karnataka,Sugarcane,2020,Zaid,7171.8,31824.54,4.44,None,Rainfed,Clay,No,27.8,740.7,59,Mumbai,1083.38,No
+Uttar Pradesh,Maize,2021,Zaid,16892.14,59619.98,3.53,MOP,Canal,Sandy,Yes,28.1,127,88,Chennai,3514.98,Yes
+Punjab,Rice,2017,Rabi,29192.6,81365.24,2.79,Urea,Canal,Clay,No,31.5,391.5,82,Chennai,3518.69,No
+Maharashtra,Sugarcane,2017,Kharif,23739.27,102771.71,4.33,MOP,Canal,Loamy,Yes,23,900.2,44,Patna,4947.65,No
+Punjab,Cotton,2017,Rabi,11716.98,19682.53,1.68,Compost,Drip,Clay,Yes,23.5,230.2,29,Patna,2592.17,No
+Karnataka,Cotton,2017,Rabi,3204.84,11865.77,3.7,Compost,Drip,Sandy,No,25.7,1070.4,29,Kolkata,2327.63,No
+Haryana,Rice,2017,Rabi,21157.35,39758.03,1.88,None,Rainfed,Sandy,Yes,39.1,964.5,7,Chennai,3497.7,No
+Haryana,Wheat,2018,Kharif,13670.99,21648.79,1.58,None,Sprinkler,Loamy,Yes,34.7,1557.6,73,Patna,4302.43,No
+Bihar,Rice,2017,Zaid,27859.11,56385.21,2.02,DAP,Sprinkler,Sandy,Yes,33.2,1353.6,30,Chennai,4747.1,No
+Uttar Pradesh,Rice,2017,Rabi,20496.32,80303.28,3.92,DAP,Sprinkler,Loamy,Yes,36.3,947.3,44,Lucknow,4212.5,Yes
+West Bengal,Sugarcane,2020,Kharif,2209.52,5718.81,2.59,Compost,Drip,Loamy,Yes,22.6,526.9,42,Kolkata,2706.7,No
+Maharashtra,Cotton,2018,Rabi,40210.11,164420.23,4.09,Urea,Canal,Sandy,No,37.2,1481,42,Ludhiana,3539.66,No
+Maharashtra,Sugarcane,2021,Rabi,26748.05,96119.07,3.59,MOP,Canal,Red,Yes,31.9,1444.9,72,Patna,4425.2,Yes
+Bihar,Wheat,2017,Kharif,34302.03,148794.45,4.34,DAP,Drip,Loamy,Yes,26.7,391.3,11,Lucknow,2962.44,No
+Uttar Pradesh,Cotton,2019,Zaid,46290.07,114682.28,2.48,DAP,Sprinkler,Sandy,No,36.3,1838,98,Lucknow,1866.75,Yes
+Uttar Pradesh,Sugarcane,2017,Kharif,42025.89,79097.28,1.88,Urea,Sprinkler,Red,No,36.1,222.4,34,Patna,1678.89,Yes
+Maharashtra,Sugarcane,2017,Kharif,23572.82,70645.7,3,Urea,Rainfed,Loamy,No,36.9,204.6,23,Kolkata,1000.63,No
+West Bengal,Cotton,2019,Zaid,36718.02,140977.47,3.84,None,Rainfed,Red,Yes,22.3,456,39,Chennai,3872.95,No
+Tamil Nadu,Maize,2017,Kharif,35894.72,92241.84,2.57,MOP,Sprinkler,Black,Yes,39.4,1828,37,Ludhiana,1444.39,Yes
+Uttar Pradesh,Cotton,2019,Zaid,45040.61,142298.42,3.16,Urea,Drip,Black,Yes,39.2,1088,37,Bangalore,1975.36,No
+Tamil Nadu,Wheat,2018,Kharif,49452.94,107668.11,2.18,DAP,Sprinkler,Red,Yes,27.1,1597.1,82,Chennai,2191.51,Yes
+Karnataka,Wheat,2020,Zaid,4970.89,19829.72,3.99,DAP,Rainfed,Loamy,No,21.3,532.9,42,Amritsar,3241.52,Yes
+Maharashtra,Maize,2021,Rabi,43807.31,196550.55,4.49,Compost,Sprinkler,Sandy,No,23.3,1031.4,14,Patna,2591.83,No
+Maharashtra,Maize,2017,Zaid,17020.11,41141.55,2.42,Urea,Drip,Clay,Yes,39.9,780.7,61,Mumbai,3698.7,Yes
+Punjab,Rice,2021,Rabi,30022.77,107600.45,3.58,None,Canal,Sandy,Yes,31.3,1672.9,32,Kolkata,1222.55,No
+Punjab,Maize,2020,Zaid,33664.24,62571.25,1.86,MOP,Drip,Clay,Yes,27.1,142.9,82,Patna,1495.76,No
+Bihar,Cotton,2020,Kharif,40400.69,112225.57,2.78,None,Drip,Clay,Yes,25.8,563.3,42,Amritsar,2996.85,Yes
+Uttar Pradesh,Maize,2021,Zaid,10145.36,15999.93,1.58,DAP,Rainfed,Loamy,No,25.1,389.9,20,Lucknow,2347.86,Yes
+Maharashtra,Sugarcane,2020,Zaid,31238.19,126510.86,4.05,None,Drip,Red,No,33.3,1732.5,25,Mumbai,2183.25,No
+Uttar Pradesh,Sugarcane,2018,Rabi,6294.18,18476.4,2.94,DAP,Drip,Sandy,Yes,28.4,988.3,96,Mumbai,1268.11,No
+Uttar Pradesh,Cotton,2020,Kharif,5215.58,8715.66,1.67,DAP,Rainfed,Red,No,39.3,868,10,Chennai,4582.88,No
+Tamil Nadu,Maize,2020,Zaid,27672.9,60914.21,2.2,DAP,Rainfed,Black,Yes,33.7,954,45,Bangalore,3767.27,Yes
+Haryana,Rice,2019,Zaid,3037.37,9095.07,2.99,DAP,Canal,Loamy,Yes,35.8,1946.7,19,Chennai,1486.47,No
+Karnataka,Sugarcane,2017,Rabi,8542.06,37850.68,4.43,DAP,Sprinkler,Loamy,No,25.9,1715.5,7,Kolkata,1260.18,Yes
+Karnataka,Maize,2020,Rabi,44788.13,77210.94,1.72,Compost,Drip,Black,Yes,21.6,1442.1,47,Mumbai,4899.49,Yes
+Tamil Nadu,Cotton,2020,Kharif,35321.16,134621.01,3.81,None,Rainfed,Sandy,No,29.8,651.9,51,Ludhiana,3724.69,Yes
+Bihar,Maize,2019,Kharif,26955.98,99660.71,3.7,Compost,Canal,Black,Yes,26.3,413.8,18,Ludhiana,2669.82,No
+Karnataka,Wheat,2021,Kharif,41827.01,100763.46,2.41,Compost,Sprinkler,Sandy,No,24,1850.7,70,Mumbai,3806.92,Yes
+Bihar,Sugarcane,2019,Kharif,34129.15,82651.14,2.42,Urea,Rainfed,Clay,Yes,39.1,903.8,33,Ludhiana,4025.33,No
+Bihar,Wheat,2021,Zaid,16581.15,53709.55,3.24,Urea,Sprinkler,Loamy,No,28.9,629.6,8,Ludhiana,4119.85,Yes
+Punjab,Rice,2017,Rabi,23869.68,41298.57,1.73,Urea,Sprinkler,Sandy,Yes,23.5,994.7,30,Bangalore,2911.51,No
+Maharashtra,Maize,2020,Kharif,6210.53,11442.4,1.84,MOP,Drip,Red,Yes,24,1843.9,16,Kolkata,2719.53,No
+Bihar,Cotton,2021,Zaid,23152.24,103199.16,4.46,Urea,Drip,Red,No,25.6,835.4,6,Patna,1044.11,Yes
+Maharashtra,Rice,2019,Zaid,31204.98,89630.97,2.87,None,Rainfed,Loamy,Yes,40,1169,21,Bangalore,4706.23,No
+Haryana,Wheat,2018,Zaid,32789.5,143083.47,4.36,Compost,Sprinkler,Black,No,25.4,1625.6,39,Lucknow,3413.23,Yes
+Punjab,Rice,2018,Kharif,30488.53,98941.68,3.25,None,Rainfed,Black,No,26.6,911.6,14,Chennai,1812.62,Yes
+Maharashtra,Maize,2020,Kharif,7214.38,19300.11,2.68,Urea,Rainfed,Sandy,Yes,33.2,543.7,90,Ludhiana,4678.41,Yes
+Haryana,Sugarcane,2017,Zaid,35211.72,75520.32,2.14,MOP,Sprinkler,Black,Yes,25.9,1989.6,47,Patna,4659.73,Yes
+Tamil Nadu,Rice,2017,Kharif,29272.1,74247,2.54,MOP,Rainfed,Loamy,Yes,24.3,1917.5,25,Chennai,4956.74,Yes
+Uttar Pradesh,Sugarcane,2018,Zaid,34241.2,112253.37,3.28,Compost,Sprinkler,Sandy,Yes,23.2,1702.6,19,Ludhiana,4496.23,Yes
+Punjab,Rice,2020,Kharif,8030,15693.32,1.95,None,Sprinkler,Clay,No,26.3,1407.9,39,Bangalore,4991.14,Yes
+Uttar Pradesh,Sugarcane,2021,Kharif,26659.51,65512.29,2.46,DAP,Sprinkler,Black,Yes,22.1,660.2,89,Patna,1978.74,No
+Karnataka,Wheat,2020,Rabi,4929.15,14444.96,2.93,None,Sprinkler,Black,Yes,20.4,1835.5,89,Bangalore,4369,Yes
+Bihar,Sugarcane,2020,Rabi,16041.64,33456.31,2.09,Urea,Canal,Sandy,Yes,36.1,623.6,89,Lucknow,4292.11,Yes
+West Bengal,Wheat,2018,Rabi,48576.07,98680.37,2.03,DAP,Sprinkler,Red,No,22.8,1621.5,64,Amritsar,1923.76,No
+Maharashtra,Sugarcane,2019,Kharif,21710.15,97411.57,4.49,MOP,Drip,Black,Yes,35.5,1844.7,48,Mumbai,1393.75,No
+Maharashtra,Wheat,2018,Kharif,8307.9,32050.02,3.86,Compost,Drip,Loamy,No,36,1245.7,9,Kolkata,4917.68,Yes
+Maharashtra,Maize,2017,Rabi,5220.47,20585.15,3.94,Compost,Drip,Black,Yes,30.8,1625.8,77,Patna,2184.1,Yes
+Punjab,Maize,2021,Zaid,30908.5,48598.38,1.57,MOP,Sprinkler,Clay,No,26.2,1604.2,22,Mumbai,4483.57,Yes
+Bihar,Rice,2019,Zaid,45217.76,119811.06,2.65,Urea,Drip,Black,Yes,22.9,467,25,Amritsar,1016.51,No
+West Bengal,Rice,2017,Zaid,10647.51,30062.73,2.82,MOP,Canal,Red,Yes,34.7,1369.1,76,Patna,1084.1,Yes
+Uttar Pradesh,Rice,2020,Kharif,25673.8,43756.55,1.7,Urea,Rainfed,Black,No,32,277.6,78,Mumbai,2863.49,No
+Haryana,Sugarcane,2018,Kharif,22823.94,35233.35,1.54,DAP,Sprinkler,Sandy,Yes,33.1,1064.9,55,Mumbai,1954.86,Yes
+Uttar Pradesh,Sugarcane,2020,Zaid,31656.89,101771.3,3.21,MOP,Drip,Black,Yes,20.2,408.2,45,Patna,3759.37,Yes
+West Bengal,Cotton,2021,Rabi,14884.84,59713.69,4.01,Urea,Canal,Red,Yes,38.6,891.1,28,Mumbai,3262.26,No
+Uttar Pradesh,Rice,2021,Zaid,9004.97,18490.6,2.05,DAP,Rainfed,Sandy,No,21.3,1682.7,28,Mumbai,1309.94,Yes
+Bihar,Cotton,2019,Rabi,19870.03,80760.09,4.06,MOP,Canal,Loamy,Yes,27.3,1975.6,42,Patna,1650.51,Yes
+West Bengal,Maize,2019,Zaid,10513.98,30735.57,2.92,Compost,Drip,Sandy,No,28.1,704.1,48,Kolkata,2552.2,Yes
+Uttar Pradesh,Cotton,2019,Kharif,28111.24,86058.29,3.06,MOP,Canal,Clay,No,20,1110.7,61,Mumbai,1742.42,No
+Uttar Pradesh,Wheat,2020,Rabi,48029.76,79061.05,1.65,None,Rainfed,Sandy,No,29.9,1071.5,63,Mumbai,4168.89,Yes
+Tamil Nadu,Rice,2017,Rabi,27522.24,94586.14,3.44,MOP,Drip,Loamy,Yes,35.1,1913.4,38,Kolkata,2664.28,Yes
+Punjab,Rice,2019,Rabi,23259.64,66399.22,2.85,None,Rainfed,Black,No,36.5,1009.3,79,Chennai,1373.73,No
+Haryana,Sugarcane,2017,Kharif,40027.74,150915.56,3.77,DAP,Canal,Sandy,No,37.6,1428.3,99,Lucknow,2937.37,No
+Maharashtra,Wheat,2020,Kharif,3896.19,13917.89,3.57,MOP,Sprinkler,Sandy,Yes,29.8,1851.4,86,Chennai,1363.35,Yes
+West Bengal,Maize,2017,Rabi,46474.54,82418.97,1.77,DAP,Sprinkler,Sandy,No,32.6,809.4,27,Ludhiana,1515.75,Yes
+Bihar,Rice,2019,Zaid,33851.28,115956.16,3.43,DAP,Sprinkler,Sandy,No,21.6,1814,90,Amritsar,1958.44,No
+Uttar Pradesh,Wheat,2020,Kharif,2088.71,9327.39,4.47,Urea,Sprinkler,Loamy,Yes,29.8,1843.2,47,Chennai,4438.11,Yes
+Karnataka,Maize,2018,Rabi,36704.16,89781.72,2.45,DAP,Rainfed,Red,Yes,23.1,1868.3,86,Chennai,4698.45,Yes
+Maharashtra,Cotton,2021,Kharif,5751.32,11715.98,2.04,DAP,Sprinkler,Red,No,27.4,613.8,44,Amritsar,4305.03,No
+Tamil Nadu,Rice,2018,Rabi,27799.51,81321.06,2.93,MOP,Rainfed,Sandy,Yes,26.6,860.7,51,Mumbai,2336.31,Yes
+Tamil Nadu,Sugarcane,2021,Rabi,31759.53,109328.17,3.44,MOP,Drip,Loamy,Yes,28.5,1753.8,45,Mumbai,2089.79,Yes
+Uttar Pradesh,Maize,2021,Rabi,43841.06,175007.74,3.99,Compost,Sprinkler,Loamy,Yes,31.4,782.4,51,Chennai,3196.62,No
+Bihar,Wheat,2017,Zaid,37244.46,124278.33,3.34,Urea,Rainfed,Sandy,No,38.1,1240.5,24,Amritsar,3887.41,Yes
+Karnataka,Maize,2018,Zaid,14359.88,53055.25,3.69,DAP,Sprinkler,Clay,No,27.9,324.3,81,Mumbai,4973.49,Yes
+Punjab,Maize,2020,Zaid,4330.69,8850.53,2.04,Urea,Sprinkler,Sandy,Yes,39.6,206.9,69,Bangalore,1526.28,Yes
+West Bengal,Rice,2019,Rabi,32961.48,94893.92,2.88,None,Sprinkler,Clay,No,35.2,882.8,72,Patna,1197.17,No
+Maharashtra,Cotton,2020,Rabi,3899.68,13252.7,3.4,DAP,Rainfed,Sandy,Yes,30.2,1199.9,28,Patna,3777.42,Yes
+Uttar Pradesh,Sugarcane,2021,Rabi,1542.85,5693.92,3.69,Urea,Canal,Clay,Yes,32.9,846.1,40,Lucknow,4328.9,No
+Maharashtra,Cotton,2018,Kharif,49585.11,105365.69,2.12,Compost,Sprinkler,Clay,Yes,22,1197.7,49,Patna,4385.4,No
+Tamil Nadu,Maize,2019,Zaid,21501.09,55331.63,2.57,Compost,Sprinkler,Sandy,Yes,36.9,1078.7,6,Chennai,3713.85,Yes
+Uttar Pradesh,Rice,2017,Kharif,24115.25,76214.21,3.16,DAP,Drip,Clay,Yes,31.6,1402.8,32,Patna,4816.06,No
+West Bengal,Sugarcane,2018,Zaid,41547.44,94047.68,2.26,None,Canal,Black,No,39.7,1334.1,30,Patna,3044.02,Yes
+Tamil Nadu,Rice,2020,Zaid,13796.96,49460.16,3.58,Compost,Rainfed,Red,No,32.7,906.1,27,Bangalore,4655.26,Yes
+West Bengal,Wheat,2021,Rabi,26145.58,49454.72,1.89,Compost,Drip,Loamy,No,36.7,907.5,83,Mumbai,4871.25,Yes
+Punjab,Sugarcane,2021,Rabi,21535.87,71023.1,3.3,None,Sprinkler,Clay,No,36,367.5,40,Bangalore,4388.63,No
+Punjab,Rice,2017,Rabi,1316.75,3935.39,2.99,Urea,Drip,Clay,Yes,26.9,1075.2,95,Chennai,2239.03,Yes
+Punjab,Cotton,2021,Zaid,29656.56,128247.5,4.32,Compost,Drip,Loamy,Yes,25.2,1215.6,10,Patna,1784.86,Yes
+Tamil Nadu,Cotton,2019,Kharif,5479.68,18505.13,3.38,MOP,Sprinkler,Clay,No,28.6,1005.3,39,Kolkata,3192.48,Yes
+Punjab,Sugarcane,2021,Kharif,13427.03,46004.49,3.43,Compost,Canal,Loamy,No,29.3,718.8,42,Mumbai,2812.06,No
+Punjab,Cotton,2017,Rabi,29278.74,122150.18,4.17,Urea,Canal,Sandy,Yes,24.8,1471.1,39,Lucknow,4511.03,No
+Haryana,Cotton,2019,Zaid,22053.99,82693.2,3.75,Urea,Drip,Black,Yes,37.9,241.9,78,Lucknow,1400.13,Yes
+Uttar Pradesh,Wheat,2017,Rabi,9858.47,22737.5,2.31,DAP,Sprinkler,Black,Yes,30.9,1837.4,98,Ludhiana,2030.96,Yes
+Bihar,Rice,2018,Kharif,28201.56,92049.18,3.26,MOP,Rainfed,Red,No,39.6,139.2,57,Ludhiana,4007.2,Yes
+Haryana,Wheat,2019,Zaid,36430.51,139092.16,3.82,Urea,Drip,Clay,Yes,36.2,1928.5,42,Patna,1379.95,Yes
+Punjab,Sugarcane,2018,Kharif,40781.44,62868.11,1.54,None,Rainfed,Red,Yes,31.1,978.5,97,Patna,2283.06,No
+Tamil Nadu,Wheat,2021,Kharif,15383.2,35350.49,2.3,MOP,Drip,Sandy,No,38.9,884.1,63,Lucknow,2548.62,No
+Tamil Nadu,Maize,2017,Kharif,23467.41,74949.56,3.19,MOP,Drip,Black,No,30.1,587.2,47,Lucknow,3490.38,No
+Haryana,Rice,2021,Kharif,1928.32,7149.74,3.71,None,Sprinkler,Sandy,No,37.7,119.1,8,Kolkata,1632.53,No
+West Bengal,Wheat,2019,Zaid,12322.96,51659.78,4.19,Compost,Sprinkler,Sandy,Yes,27.2,622.1,9,Chennai,4442.42,No
+West Bengal,Maize,2019,Kharif,7768.14,31673.31,4.08,None,Rainfed,Clay,Yes,27.6,307.9,72,Patna,2790.17,No
+Karnataka,Cotton,2020,Kharif,12714.25,47985.12,3.77,None,Rainfed,Sandy,No,28.4,1353.7,49,Lucknow,4668.09,No
+Bihar,Rice,2020,Zaid,31398.19,122806.66,3.91,Compost,Canal,Black,Yes,30.9,706.2,84,Kolkata,2871.48,Yes
+West Bengal,Cotton,2018,Zaid,44428.12,86817.59,1.95,Compost,Sprinkler,Red,Yes,31.1,1557.6,29,Amritsar,2100.16,Yes
+Tamil Nadu,Rice,2020,Zaid,7405.15,26030.04,3.52,Compost,Drip,Black,Yes,29.9,493.1,82,Lucknow,1567.32,Yes
+West Bengal,Rice,2020,Rabi,36579.45,95138.91,2.6,Compost,Drip,Clay,No,26.1,1810.4,15,Mumbai,1014.98,Yes
+Uttar Pradesh,Rice,2019,Rabi,16350.06,55724.36,3.41,Compost,Canal,Black,No,38.5,1093.7,33,Mumbai,3128.63,Yes
+Maharashtra,Maize,2020,Zaid,26646.95,113636.99,4.26,None,Sprinkler,Loamy,Yes,31.8,317.6,38,Amritsar,1428.63,Yes
+Karnataka,Wheat,2020,Zaid,37812.67,158472.37,4.19,DAP,Drip,Red,Yes,28.2,861.6,90,Ludhiana,2566.91,No
+Tamil Nadu,Wheat,2019,Rabi,32436.86,51143.5,1.58,DAP,Canal,Loamy,Yes,33,492.8,18,Chennai,3357.09,Yes
+Punjab,Wheat,2019,Rabi,16530.19,64905.44,3.93,Urea,Canal,Loamy,Yes,35.4,479.4,28,Ludhiana,2102.74,No
+Haryana,Wheat,2021,Kharif,43694.45,168453.07,3.86,DAP,Drip,Clay,No,39.2,1062.1,63,Patna,1700.9,Yes
+Bihar,Wheat,2018,Zaid,42813.13,106368.37,2.48,DAP,Drip,Sandy,No,30,1376.6,43,Ludhiana,4098.89,No
+Tamil Nadu,Wheat,2019,Rabi,12934.99,31278.64,2.42,None,Rainfed,Loamy,Yes,22.2,1832.1,30,Patna,4787.16,No
+Bihar,Maize,2019,Rabi,1251.84,3550.5,2.84,Compost,Sprinkler,Black,Yes,28.8,1054.1,47,Lucknow,1401.76,Yes
+Karnataka,Cotton,2019,Zaid,47341.74,115455.08,2.44,Compost,Rainfed,Sandy,No,29.6,1935.1,40,Mumbai,1622.36,Yes
+Uttar Pradesh,Wheat,2021,Kharif,30294.16,52890.49,1.75,None,Canal,Black,Yes,37.9,1889.1,43,Chennai,4840.05,Yes
+Maharashtra,Sugarcane,2019,Zaid,32279.18,78162,2.42,DAP,Drip,Black,No,27.9,1743.6,65,Chennai,1151.14,Yes
+Tamil Nadu,Maize,2017,Zaid,11667.91,20587.52,1.76,None,Rainfed,Sandy,Yes,39.1,1050,20,Chennai,4910.53,Yes
+Tamil Nadu,Wheat,2019,Zaid,34155.59,116407.1,3.41,Urea,Canal,Sandy,No,29.7,367.7,63,Lucknow,1018.58,No
+Tamil Nadu,Sugarcane,2021,Kharif,16085.83,47157.22,2.93,Compost,Sprinkler,Black,Yes,39.5,514,10,Patna,4494.67,Yes
+Karnataka,Cotton,2019,Zaid,6164.67,24760.78,4.02,MOP,Drip,Clay,Yes,20.2,1330.6,60,Chennai,2229.3,No
+Tamil Nadu,Cotton,2021,Zaid,7957.72,19199.79,2.41,Urea,Rainfed,Red,No,38,901.3,12,Lucknow,4754.36,No
+Bihar,Rice,2018,Rabi,44432.64,72940.18,1.64,Urea,Sprinkler,Red,No,38.6,378.9,98,Lucknow,2267.78,No
+Maharashtra,Maize,2018,Zaid,14257.4,32027.47,2.25,None,Rainfed,Clay,Yes,39.2,1010.1,31,Amritsar,3617.23,Yes
+Tamil Nadu,Cotton,2017,Rabi,38999.76,104494.61,2.68,DAP,Canal,Sandy,Yes,20.3,133.1,75,Bangalore,1320.13,Yes
+Karnataka,Sugarcane,2017,Kharif,48813.16,127275.85,2.61,Compost,Sprinkler,Black,No,23.4,1494.4,31,Ludhiana,1969.32,Yes
+Bihar,Wheat,2021,Rabi,9205.53,26583.55,2.89,MOP,Rainfed,Red,No,33.1,239.8,93,Chennai,4094.72,Yes
+Tamil Nadu,Cotton,2017,Rabi,4093.37,11012.25,2.69,Urea,Sprinkler,Black,Yes,20.5,1295.3,50,Bangalore,3114.74,Yes
+Haryana,Wheat,2021,Rabi,43589.57,134699.94,3.09,MOP,Canal,Clay,Yes,21.3,1606.7,45,Patna,4711.88,Yes
+Bihar,Cotton,2021,Kharif,41063.55,171857.93,4.19,DAP,Sprinkler,Black,No,24.4,352,83,Lucknow,2715.01,No
+Haryana,Rice,2017,Zaid,23443.4,53215.15,2.27,DAP,Rainfed,Clay,No,30.2,1085.4,29,Kolkata,4479.25,Yes
+Haryana,Sugarcane,2021,Zaid,16721.87,54984.02,3.29,MOP,Canal,Sandy,No,30.9,1580.2,90,Ludhiana,2795.82,No
+Tamil Nadu,Wheat,2021,Kharif,46113.88,116901.02,2.54,Compost,Drip,Clay,No,20.7,595.2,22,Ludhiana,4916.99,No
+Punjab,Cotton,2017,Kharif,43241.73,78536.32,1.82,DAP,Rainfed,Clay,No,23.4,409.5,16,Chennai,4839.34,Yes
+Uttar Pradesh,Sugarcane,2018,Zaid,37889.58,140137.55,3.7,MOP,Rainfed,Red,Yes,30,740,91,Kolkata,2316.55,Yes
+Punjab,Rice,2017,Zaid,22096.26,41042.08,1.86,Urea,Canal,Black,Yes,31.9,1153.9,55,Mumbai,4543.69,Yes
+Bihar,Cotton,2018,Zaid,19366.42,65148.48,3.36,MOP,Canal,Red,No,23,1193,43,Patna,4390.45,Yes
+Bihar,Rice,2017,Zaid,2743.92,12300.97,4.48,MOP,Drip,Loamy,Yes,28,348.7,93,Amritsar,1842.72,Yes
+Karnataka,Rice,2018,Rabi,14450.83,48756.98,3.37,None,Rainfed,Clay,Yes,38.1,969.4,14,Amritsar,3497.16,Yes
+Karnataka,Rice,2021,Kharif,22764.99,80286.66,3.53,DAP,Canal,Loamy,No,40,609.7,98,Bangalore,1290.73,No
+Haryana,Wheat,2018,Zaid,33907.8,54088.62,1.6,Compost,Drip,Red,Yes,39.7,1699.8,78,Lucknow,4346.84,No
+Haryana,Rice,2020,Zaid,40595.32,99952.72,2.46,Compost,Drip,Black,Yes,37.6,695.8,81,Bangalore,1698.18,No
+Tamil Nadu,Rice,2017,Rabi,20533.48,83956.62,4.09,None,Canal,Red,Yes,27.9,1693.5,58,Mumbai,1283.26,No
+West Bengal,Cotton,2018,Rabi,43079.31,106735.2,2.48,Compost,Rainfed,Black,No,33.7,914.3,33,Mumbai,2600.88,No
+Haryana,Maize,2019,Rabi,17529.2,69811.29,3.98,MOP,Sprinkler,Black,No,28.3,1480.5,45,Ludhiana,3307.69,No
+Maharashtra,Wheat,2017,Kharif,12444.8,21212.91,1.7,None,Sprinkler,Sandy,Yes,33,1069.1,13,Amritsar,4419.67,Yes
+Uttar Pradesh,Wheat,2020,Zaid,18800.37,52940.76,2.82,Urea,Drip,Clay,Yes,26.2,1281.7,67,Kolkata,4896.97,Yes
+Uttar Pradesh,Sugarcane,2021,Zaid,17177.64,31270.21,1.82,DAP,Sprinkler,Red,Yes,32.1,851.2,81,Chennai,2757.97,Yes
+Tamil Nadu,Rice,2018,Kharif,16416.82,57820.9,3.52,DAP,Sprinkler,Black,Yes,30.5,1559.6,41,Amritsar,1241.79,No
+Tamil Nadu,Maize,2019,Kharif,4456.25,18842.31,4.23,DAP,Canal,Red,Yes,20.5,907.9,18,Amritsar,3996.46,No
+West Bengal,Wheat,2020,Kharif,27686.91,47997.18,1.73,MOP,Drip,Red,Yes,35.8,969.2,77,Kolkata,3260.69,No
+Uttar Pradesh,Wheat,2019,Kharif,43122.62,86522.52,2.01,Urea,Rainfed,Black,No,20.2,1083.6,76,Ludhiana,2791.57,Yes
+West Bengal,Rice,2020,Kharif,41984.63,126264.45,3.01,None,Drip,Loamy,Yes,25.9,1680.5,43,Ludhiana,2237.08,Yes
+Punjab,Wheat,2019,Zaid,49058.9,162766.57,3.32,None,Canal,Clay,Yes,20.1,1352.8,44,Kolkata,3009.59,Yes
+Bihar,Rice,2021,Rabi,27683.21,54802.77,1.98,DAP,Sprinkler,Clay,No,27.5,763.4,58,Mumbai,2354.72,No
+Uttar Pradesh,Rice,2018,Rabi,16205.12,48777.98,3.01,Urea,Rainfed,Sandy,Yes,21.3,1373.6,7,Kolkata,4028.05,No
+Maharashtra,Wheat,2020,Kharif,8632.89,27117.08,3.14,Urea,Drip,Sandy,Yes,38.3,1320.6,59,Bangalore,3175.57,No
+Maharashtra,Maize,2018,Rabi,21262.31,34432.91,1.62,Urea,Sprinkler,Sandy,Yes,28.3,1868.9,37,Mumbai,4507.39,Yes
+Haryana,Cotton,2020,Zaid,18264.03,29757.59,1.63,Compost,Drip,Clay,Yes,29.2,1698.7,75,Kolkata,3174.18,No
+West Bengal,Maize,2017,Kharif,7918.75,30016.4,3.79,Compost,Rainfed,Loamy,No,27,1330.1,23,Lucknow,1953.05,Yes
+Punjab,Cotton,2018,Zaid,31755.77,65926.51,2.08,DAP,Drip,Clay,Yes,32.6,748.9,38,Mumbai,4404.37,Yes
+Haryana,Wheat,2017,Kharif,45964.72,191323.86,4.16,Urea,Drip,Clay,No,35.7,1581.2,82,Mumbai,3228.88,Yes
+Karnataka,Rice,2019,Zaid,41195.88,131233.24,3.19,Urea,Drip,Clay,Yes,33,1192.9,54,Amritsar,1827.36,Yes
+Bihar,Rice,2018,Rabi,34751.71,109669.76,3.16,None,Sprinkler,Clay,Yes,35,1972,51,Chennai,3494.03,Yes
+Bihar,Wheat,2017,Rabi,48419.4,168174.92,3.47,None,Rainfed,Loamy,No,38.1,570.3,50,Amritsar,2430.87,Yes
+Uttar Pradesh,Sugarcane,2017,Zaid,38206.23,138994.14,3.64,DAP,Rainfed,Sandy,Yes,37.3,251.3,60,Patna,4377.62,Yes
+Karnataka,Maize,2018,Rabi,9827.77,17980.78,1.83,Urea,Sprinkler,Red,No,33.5,232.8,61,Mumbai,2813.2,No
+Tamil Nadu,Cotton,2017,Zaid,21205.96,36407.05,1.72,DAP,Sprinkler,Sandy,No,24.3,1316.1,87,Kolkata,3905.77,Yes
+Haryana,Wheat,2019,Rabi,36539.07,94313.99,2.58,None,Sprinkler,Sandy,No,32.8,1884.6,55,Kolkata,1382.14,No
+West Bengal,Wheat,2021,Rabi,15600.88,27602.3,1.77,None,Canal,Red,Yes,30.1,103.7,58,Kolkata,2584.1,Yes
+West Bengal,Wheat,2018,Kharif,13031.98,51306.63,3.94,Compost,Drip,Clay,Yes,34.3,1479,94,Mumbai,4932.97,Yes
+Bihar,Wheat,2017,Kharif,28950.07,93934.08,3.24,DAP,Drip,Loamy,Yes,36.7,1348.4,85,Kolkata,4233.84,Yes
+Haryana,Maize,2021,Kharif,22744.8,53384.41,2.35,DAP,Rainfed,Loamy,Yes,34.9,1491.4,32,Patna,1639.76,No
+Haryana,Cotton,2017,Rabi,36714.62,88276.24,2.4,Urea,Drip,Sandy,No,36.9,775.3,23,Mumbai,2111.06,Yes
+West Bengal,Rice,2017,Kharif,44621.59,82314.3,1.84,Urea,Canal,Red,Yes,21.3,1658.9,31,Kolkata,2319.26,Yes
+Bihar,Rice,2019,Zaid,44163.86,72818.16,1.65,Compost,Sprinkler,Black,Yes,20.6,184.9,52,Mumbai,3601.46,No
+Tamil Nadu,Maize,2020,Kharif,43758.67,77073.36,1.76,MOP,Rainfed,Clay,No,25.2,1535.3,23,Lucknow,4027.98,No
+Haryana,Wheat,2018,Rabi,13825.8,46630.58,3.37,MOP,Rainfed,Sandy,No,38,607.4,55,Mumbai,3998.11,No
+Karnataka,Cotton,2019,Rabi,45943.81,145213.48,3.16,MOP,Drip,Loamy,Yes,36.5,1006,11,Patna,3039.5,No
+Bihar,Wheat,2020,Kharif,16297.4,59898.38,3.68,DAP,Rainfed,Red,No,33.7,1663,33,Amritsar,4243.28,Yes
+Punjab,Rice,2019,Kharif,30467.82,76707.64,2.52,DAP,Sprinkler,Red,No,34,615.6,47,Mumbai,2748.31,Yes
+Bihar,Cotton,2017,Kharif,1981.14,3343.22,1.69,None,Rainfed,Sandy,No,34.5,451.9,73,Chennai,1495.52,No
+Karnataka,Rice,2021,Zaid,18492.14,62951.54,3.4,DAP,Sprinkler,Black,No,38.9,1394.5,98,Patna,3257.77,Yes
+Karnataka,Wheat,2019,Rabi,10999.16,26131.07,2.38,DAP,Canal,Loamy,No,36.6,1113.5,62,Bangalore,4809.21,No
+Haryana,Wheat,2021,Zaid,6200.15,19183.7,3.09,DAP,Canal,Sandy,Yes,32.5,1077.4,12,Lucknow,4171.97,No
